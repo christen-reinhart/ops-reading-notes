@@ -22,5 +22,5 @@ This repository is used to keep track of my observations and questions from the 
 ### Ops 401: Cybersecurity Engineering
 
 - [ops-401-reading-01.md](ops-401-reading-01.md)
-- [ops-401-reading-02.md]nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn(ops-401-reading-02.md)
+- [ops-401-reading-02.md](ops-401-reading-02.md)
 
