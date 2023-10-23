@@ -1,5 +1,5 @@
 # seattle-ops-201d14-reading1
-##How to Use System Restore
+## How to Use System Restore
 
 1. What is the purpose of the Windows System Restore tool?
 
