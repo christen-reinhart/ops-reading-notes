@@ -1,17 +1,4 @@
 # seattle-ops-201d14-reading1
-Christen Reinhart
-10/23/2023
-
-Backup Your System
-
-Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
-
-Review the Submission Instructions for guidance on completing and submitting this assignment.
-
-Reading
-
-It is important to perform data backups in-order to maintain the integrity and availability of the information your business requires to perform day to day business.
-
 ##How to Use System Restore
 
 1. What is the purpose of the Windows System Restore tool?
