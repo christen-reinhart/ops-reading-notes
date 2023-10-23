@@ -1,5 +1,6 @@
-# seattle-ops-102d14-reading1.md
-# seattle-ops-102d14-reading2.md
-# seattle-ops-102d14-reading3.md
-# seattle-ops-102d14-reading4.md
+# Reading Notes
+## Courses
+### Ops 102: Intro to Computer Operations
 
+- [ops-102-reading-01.md](ops-102-reading-01.md)
+- [ops-102-reading-02.md](ops-102-reading-02.md)
