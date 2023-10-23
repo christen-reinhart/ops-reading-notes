@@ -1,6 +1,6 @@
 # Reading Notes
 
-This repository is used to keep track of my observations and questions from the reading assignments throughout my course. Think of it as a way to document and highlight new knowledge.
+This repository is used to keep track of my observations and questions from the reading assignments throughout my course.
 
 ## Courses
 
