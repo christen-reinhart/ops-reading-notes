@@ -1,10 +1,25 @@
-# ops-reading-notes
-It is important to know this information to have a basic understanding of the fundamentals of computers to build knowledge.
+# Reading Notes
 
-What is the BIOS? It is the basic start-up sofware that is on the motherboard for starting up the rest of the computer it acts like a bridge between the hardware and OS.
-Use analogies from your previous background to explain what happens during the booting process? It is like waking up in the morning before your have you coffee then you Windows OS kicks in. The BOIS is a preliminary start-up and function check to get fully operational.
-What is the “Power On Self Test”? It is to initialize and perform the computers self test of hardware components like RAM, CPU and storage.
-What is the CMOS? Complementary Metal-Oxide-Semiconductor and small non-volatile memory chip on the motherboard.
-What is the CMOS battery? A small battery on the motherboard that keeps small chip powered.
+This repository is used to keep track of my observations and questions from the reading assignments throughout my course. Think of it as a way to document and highlight new knowledge.
 
-Utilized Chat GPT
+## Courses
+
+### Ops 102: Intro to Computer Operations
+
+- [ops-102-reading-01.md](ops-102-reading-01.md)
+- [ops-102-reading-02.md](ops-102-reading-02.md)
+
+### Ops 201: Foundations of Computer Operations
+
+- [ops-201-reading-01.md](ops-201-reading-01.md)
+- [ops-201-reading-02.md](ops-201-reading-02.md)
+
+### Ops 301: Networking and Systems Administration
+
+- [ops-301-reading-01.md](ops-301-reading-01.md)
+- [ops-301-reading-02.md](ops-301-reading-02.md)
+
+### Ops 401: Cybersecurity Engineering
+
+- [ops-401-reading-01.md](ops-401-reading-01.md)
+- [ops-401-reading-02.md]
