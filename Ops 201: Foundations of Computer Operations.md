@@ -28,6 +28,11 @@ If you have multiple restore points, try using a different one. Ensure your Wind
 It is important to perform data backups in-order to maintain the integrity and availability of the information your business requires to perform day to day business.
 
 ### Things I want to know more about
+#### Resources 
+Utilized Chat GPT for reference and the website below.
+https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
+
+
 
 # seattle-ops-201d14-reading2
 # seattle-ops-201d14-reading3
