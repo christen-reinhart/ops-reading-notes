@@ -38,7 +38,7 @@ It is important to perform data backups in-order to maintain the integrity and a
 - How to priorize and manage backups especially in a virtual environment.
 ### Resources 
 - Utilized Chat GPT for reference and the website below.
-- https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
+- [Windows Restore Link](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131)
 
 ## Identify Your Accountability Partners
 
