@@ -67,6 +67,7 @@ TA’s will be grading you on submitting 2 students names that are in your cohor
 1. What is the primary function of a shell in a computer’s operating system? 
 
 Shells allow users to interact with the operating system by entering text commands. They provide a means for users to write scripts or batch files. Shells provide commands for creating, copying, moving, deleting, and managing files and directories.
+
 2. How does Bash locate and execute commands on a Linux or Unix system? 
 
 It locates and executes commands on a Linux or Unix system through a process known as command execution. Bash reads the command from the input provided by the user. Then it parses the command line to understand what command you want to execute. 
