@@ -40,7 +40,7 @@ It is important to perform data backups in-order to maintain the integrity and a
 Utilized Chat GPT for reference and the website below.
 https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
 
-- [ops-201-reading-02.md](ops-201-reading-02.md)
+- [ops-201-career-class1.md](ops-201-reading-02.md)
 - [ops-201-reading-02.md](ops-201-reading-03.md)
 - [ops-201-reading-02.md](ops-201-reading-04.md)
 - [ops-201-reading-02.md](ops-201-reading-05.md)
