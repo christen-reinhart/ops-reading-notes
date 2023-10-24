@@ -93,7 +93,8 @@ The reason this topic is important to know is to understand the underlying syste
 - Chat GPT was used for reference
 - [Bash Reference Link](https://opensource.com/resources/what-bash)
 
-### Things I want to know more about: I would like to know more about Linux and the CLI.
+### Things I want to know more about: 
+- I would like to know more about Linux and the CLI.
 
 # seattle-ops-201d14-reading3
 # seattle-ops-201d14-reading4
