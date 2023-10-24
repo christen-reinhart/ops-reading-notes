@@ -35,9 +35,10 @@ If you have multiple restore points, try using a different one. Ensure your Wind
 It is important to perform data backups in-order to maintain the integrity and availability of the information your business requires to perform day to day business.
 
 ## Things I want to know more about
+- How to priorize and manage backups especially in a virtual environment.
 ### Resources 
-Utilized Chat GPT for reference and the website below.
-https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
+- Utilized Chat GPT for reference and the website below.
+- https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
 
 ## Identify Your Accountability Partners
 
