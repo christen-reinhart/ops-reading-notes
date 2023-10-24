@@ -93,7 +93,7 @@ The reason this topic is important to know is to understand the underlying syste
 ### Things I want to know more about:
 - I would like to know more about Linux and the CLI.
 
-- [Things I want to know more about](ops-201-reading-03.md)
+- [Things I want to know more about](https://opensource.com/resources/what-bash)
 - [ops-201-reading-02.md](ops-201-reading-04.md)
 - [ops-201-reading-02.md](ops-201-reading-05.md)
 - [ops-201-reading-02.md](ops-201-reading-06.md)
