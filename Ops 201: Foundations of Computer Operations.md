@@ -45,8 +45,8 @@ Assignment
 
 Those two people should not be in your direct friend pool. They need to be people you are less casual around.
 
-Jason Dallas
-Raymond Mankin
+- Jason Dallas
+- Raymond Mankin
 
 
 Once your two partners have accepted the role, please submit those two names in the assignment entry screen.
