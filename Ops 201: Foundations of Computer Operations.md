@@ -35,6 +35,29 @@ https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
 
 
 # seattle-ops-201d14-career-class01
+## Identify Your Accountability Partners
+
+An accountability partner is a person who advocates for you to stick to your commitments, and keep moving towards your goals. Accountability partners help you stay motivated, highlight areas for growth, offer candid feedback, provide a sounding board, give emotional support, and are your cheerleaders. Learning how to be accountable for your actions leaves you with less room for excuses and procrastination.
+
+Assignment
+
+## Find 2 people in your current class to be your accountability partner.
+
+Those two people should not be in your direct friend pool. They need to be people you are less casual around.
+
+Jason Dallas
+Raymond Mankin
+
+
+Once your two partners have accepted the role, please submit those two names in the assignment entry screen.
+
+Your accountability partners will be responsible for checking your resume and your personal pitch in this course.
+
+
+Allocate 10 minutes for this assignment
+
+TA’s will be grading you on submitting 2 students names that are in your cohort
+
 
 # seattle-ops-201d14-reading3
 # seattle-ops-201d14-reading4
