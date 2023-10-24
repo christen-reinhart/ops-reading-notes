@@ -61,6 +61,36 @@ Allocate 10 minutes for this assignment
 
 TA’s will be grading you on submitting 2 students names that are in your cohort
 
+## What is Bash?
+
+1. What is the primary function of a shell in a computer’s operating system? 
+
+Shells allow users to interact with the operating system by entering text commands. They provide a means for users to write scripts or batch files. Shells provide commands for creating, copying, moving, deleting, and managing files and directories.
+2. How does Bash locate and execute commands on a Linux or Unix system? 
+
+It locates and executes commands on a Linux or Unix system through a process known as command execution. Bash reads the command from the input provided by the user. Then it parses the command line to understand what command you want to execute. 
+
+3. How can you determine if your system is running a Bash shell?
+
+Type “echo” if your system is using Bash as the default shell, it will typically display "/bin/bash" or a similar path to the Bash shell executable. This command shows the name of the currently running shell. You can check the version of the Bash shell by typing “--version”.
+
+4. What makes Bash scripting powerful and why is it considered scriptable?
+
+It is widely available on Unix like operating systems. Allows you to execute system commands and utilities directly from the script. Bash scripts can use variables to store and manipulate data. 
+
+5. Bash scripting allows for customization, automation, and efficiency. Discuss methods or practices from your previous work experience or cultural background that aim to achieve similar goals in daily tasks. 
+
+Standard Operating Procedures (SOP’s) in my previous occupation(US Army) we used SOP’s all the time, SOPs are established to document and standardize processes, ensuring consistency and efficiency in daily operations.
+
+The reason this topic is important to know is to understand the underlying systems that run and automate processes.
+
+## References
+
+Chat GPT was used for reference
+https://opensource.com/resources/what-bash
+
+### Things I want to know more about: I would like to know more about Linux and the CLI.
+
 - [ops-201-reading-02.md](ops-201-reading-03.md)
 - [ops-201-reading-02.md](ops-201-reading-04.md)
 - [ops-201-reading-02.md](ops-201-reading-05.md)
