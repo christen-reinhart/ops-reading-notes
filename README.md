@@ -39,11 +39,11 @@ It is important to perform data backups in-order to maintain the integrity and a
 Utilized Chat GPT for reference and the website below.
 https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
 
- # Identify Your Accountability Partners
+## Identify Your Accountability Partners
 
 An accountability partner is a person who advocates for you to stick to your commitments, and keep moving towards your goals. Accountability partners help you stay motivated, highlight areas for growth, offer candid feedback, provide a sounding board, give emotional support, and are your cheerleaders. Learning how to be accountable for your actions leaves you with less room for excuses and procrastination.
 
-# Assignment
+## Assignment
 
 Find 2 people in your current class to be your accountability partner.
 Those two people should not be in your direct friend pool. They need to be people you are less casual around.
