@@ -78,7 +78,7 @@ The reason this topic is important to know is to understand the underlying syste
 
 3. How can you determine if your system is running a Bash shell?
 
-- Type “echo” if your system is using Bash as the default shell, it will typically display "/bin/bash" or a similar path to the Bash shell executable. This command shows the name of the currently running shell. You can check the version of the Bash shell by typing “--version”.
+- Type “ echo $O ” if your system is using Bash as the default shell, it will typically display "/bin/bash" or a similar path to the Bash shell executable. This command shows the name of the currently running shell. You can check the version of the Bash shell by typing “--version”.
 
 4. What makes Bash scripting powerful and why is it considered scriptable?
 
