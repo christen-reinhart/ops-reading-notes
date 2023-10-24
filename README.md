@@ -88,7 +88,7 @@ The reason this topic is important to know is to understand the underlying syste
 ## References
 
 - Chat GPT was used for reference
-- https://opensource.com/resources/what-bash
+- [What is Bash Ref](https://opensource.com/resources/what-bash)
 
 ### Things I want to know more about:
 - I would like to know more about Linux and the CLI.
