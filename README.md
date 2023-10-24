@@ -6,7 +6,6 @@
 
 # Ops 201: Foundations of Computer Operations
 
-- [ops-201-reading-01.md](ops-201-reading-01.md)
 # How to Use System Restore
 
 1. What is the purpose of the Windows System Restore tool?
@@ -40,7 +39,6 @@ It is important to perform data backups in-order to maintain the integrity and a
 Utilized Chat GPT for reference and the website below.
 https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
 
-- [ops-201-career-class1.md](ops-201-caqreer-class01.md)
  # Identify Your Accountability Partners
 
 An accountability partner is a person who advocates for you to stick to your commitments, and keep moving towards your goals. Accountability partners help you stay motivated, highlight areas for growth, offer candid feedback, provide a sounding board, give emotional support, and are your cheerleaders. Learning how to be accountable for your actions leaves you with less room for excuses and procrastination.
