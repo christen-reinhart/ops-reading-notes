@@ -6,7 +6,7 @@
 
 # Ops 201: Foundations of Computer Operations
 
-# How to Use System Restore
+## How to Use System Restore
 
 1. What is the purpose of the Windows System Restore tool?
 
