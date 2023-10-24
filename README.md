@@ -53,7 +53,7 @@ Jason Dallas
 Raymond Mankin
 
 
-## Once your two partners have accepted the role, please submit those two names in the assignment entry screen.
+### Once your two partners have accepted the role, please submit those two names in the assignment entry screen.
 
 Your accountability partners will be responsible for checking your resume and your personal pitch in this course.
 
