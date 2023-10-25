@@ -134,7 +134,44 @@ I'm in the process of determining the most effective learning path while maintai
 This class is just the beginning of building a strong knowledge base for me at the moment.
 
 ##References
+
 - Chat GPT assisted me with spelling and grammar.
+
+## Issue tracking system
+
+Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+## Reading
+  
+Introduction to Help Desk Support Roles
+
+1. What role does the help desk professional play within an organization, particularly in relation to customers?
+   
+- Help desk professionals are often the first point of contact for customers who have technical issues or questions. They diagnose and troubleshoot technical issues, whether they are related to software, hardware, or network problems. Help desk professionals document their interactions with customers, which includes noting the steps taken to resolve issues. They keep customers informed about the progress of issue resolution, expected timelines, and any additional steps that may be required. 
+
+2. The article differentiates between hard and soft skills. In your culture or community, are there specific skills that are highly valued? How do they compare to the skills mentioned in the article?
+
+- As technology plays an integral role in contemporary society, digital literacy and the ability to use and adapt to technology are highly valued. In an ever-changing world, the ability to adapt to new circumstances, learn quickly, and be flexible in one's approach is highly regarded. Effective communication, including verbal and non-verbal communication, active listening, and the ability to convey ideas clearly, is often highly valued.
+
+3. Why have security skills become more important in recent years for help desk technicians?
+
+- The digital landscape has seen a significant increase in cybersecurity threats, including malware, ransomware, phishing, and data breaches. When a security incident occurs, help desk technicians may be involved in the incident response process, which includes identifying the breach, containing it, and reporting it.Customers and clients expect organizations to protect their data and privacy.  Help desk professionals are often the first point of contact for employees seeking assistance. 
+
+
+4. How do writing skills and critical thinking skills play a vital role in the work of help desk technicians?
+
+- Well-organized and clear documentation is vital for tracking issues, sharing knowledge within the team, and creating a knowledge base. Help desk technicians often communicate with customers and colleagues through written communication, such as emails, ticket updates, and documentation. 
+
+## References
+
+- I used Chat GPT for spelling and grammer corrections.
+- [Helpdesk Roles Link](https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5)
+
+## Things I would like to know more about
+
+- I am pretty familiar with helpdesk, I think it is a good role to use for learning experience
+
 
 
 
