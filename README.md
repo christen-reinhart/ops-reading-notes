@@ -91,8 +91,53 @@ The reason this topic is important to know is to understand the underlying syste
 - Chat GPT was used for reference
 - [What is Bash Ref](https://opensource.com/resources/what-bash)
 
-### Things I want to know more about:
+  ### Things I want to know more about:
 - I would like to know more about Linux and the CLI.
+
+## Learning Journal
+
+## Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+## Andragogy vs. Pedagogy
+
+1. Pedagogy:
+Teacher-Centered: Pedagogy is often associated with traditional teaching methods where the teacher is at the center of the learning process.
+2. Andragogy:
+Learner-Centered: Andragogy is an approach that emphasizes the role of the learner in the educational process.
+
+3. Maybe you’ve seen a graphic similar to this before? 
+I have been in classes where the teacher was more of a facilitator and relied upon the combined knowledge of the class in-order for students to learn from each other. The teacher makes sure the students stay on topic and puts out specific material related to the course learning objectives. This was in a professional development class where most of the individuals were experienced in a common field and older.
+
+## Kolb's Adult Learning Cycle (via psychologytoday.com)
+
+This is a learning style model developed by researcher David Kolb and it is a core principle in the way our curriculum is designed and our instruction is delivered at Code Fellows. Note the “Reflective Observation” component; it is that piece that is a primary differentiator between the way adults learn and the way children learn.
+
+As an adult, learning is different for you now than it was when you were younger. Do a quick read of this article that describes the differences between andragogy (adult-focused learning) and pedagogy (child-focused learning).
+
+Over the duration of this course there will be a series of learning journal assignments where you will be prompted to reflect on your learning. The reflection is a critical part of adult learning, and the self-awareness that results is a key component of emotional intelligence. Initially, these journal assignments will give you prompts to get you started, but as time goes by some assignments will be less structured so that you explore your thoughts with more self-determination and freedom.
+
+## Reflection
+
+Write a brief reflection on your learning today, or use the prompt below to get started.
+
+Consider the following quote from the article linked above:
+
+“[Adult learners] are deeply involved not only in planning, but also in evaluating their learning, as they know what knowledge they want to acquire.”
+
+In other words, you should continuously evaluate your learning, and your learning journal is an excellent way to keep track of that. How do you see yourself planning and evaluating your learning? What details will you record and/or measure? How often will you evaluate what you want to learn?
+
+I have a clear goal in mind for this course: to gain a better understanding of cybersecurity. Although I've been in the IT career field for some time, this specialty is somewhat different. Right now, I'm focused on establishing a solid rhythm and following directions. I'm absorbing all the information presented here and conducting my own research through webinars with SANS Institute and YouTube videos. I also have friends from the military who are either already in the field or just starting out. Using the insights I gain from them, I'm trying to better assess where I'd like to end up and map out a career path, taking advantage of the benefits available to me through the VA.
+
+I'm in the process of determining the most effective learning path while maintaining relevance in the field. I'm considering whether to continue working or return to school to maximize my education. Additionally, I'm working on deciding which job in the cybersecurity field I'd like to pursue (such as a SOC Analyst/Blue Team position) so I can tailor my training plan accordingly.
+This class is just the beginning of building a strong knowledge base for me at the moment.
+
+##References
+- Chat GPT assisted me with spelling and grammar.
+
+
+
 
 - [Things I want to know more about](https://opensource.com/resources/what-bash)
 - [ops-201-reading-02.md](ops-201-reading-04.md)
