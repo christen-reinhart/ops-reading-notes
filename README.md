@@ -1,6 +1,6 @@
 # Ops 102: Intro to Computer Operations
 
-- [ops-102-reading-01.md](ops-102-reading-01.md)
+- [Reading 1](https://www.google.com/search?q=install+vs+code+ubuntu&sca_esv=576343061&sxsrf=AM9HkKkakpreo4jp_-J7uD7lSwLkrIIy5w%3A1698200546952&source=hp&ei=4ns4ZcKRN_DUkPIP1MyjmAU&iflsig=AO6bgOgAAAAAZTiJ8sCbKAmoL8Rh7gvdwx47muf3AbAL&oq=&gs_lp=Egdnd3Mtd2l6IgAqAggAMgcQIxjqAhgnMgcQIxjqAhgnMgcQIxjqAhgnMgcQIxjqAhgnMgcQIxjqAhgnMgcQIxjqAhgnMgcQIxjqAhgnMgcQIxjqAhgnMgcQIxjqAhgnMgcQIxjqAhgnSIEJUABYAHABeACQAQCYAQCgAQCqAQC4AQHIAQCoAgo&sclient=gws-wiz)
 - [ops-102-reading-02.md](ops-102-reading-02.md)
 - [ops-102-reading-02.md](ops-102-reading-02.md)
 
