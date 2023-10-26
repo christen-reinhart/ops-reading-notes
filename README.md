@@ -177,9 +177,56 @@ Introduction to Help Desk Support Roles
 
 
 - [Things I want to know more about](https://opensource.com/resources/what-bash)
-- [ops-201-reading-02.md](ops-201-reading-04.md)
-- [ops-201-reading-02.md](ops-201-reading-05.md)
-- [ops-201-reading-02.md](ops-201-reading-06.md)
+
+## Learning Journal: Class 03
+
+## Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+You should probably only spend about 10-15 minutes on this assignment, although if you would find it helpful to invest more time, you are welcome to do so.
+
+## Reflection
+
+Write a brief reflection on your learning today, or use the prompt below to get started.
+
+“For adult learners, their experience becomes the main resource of both their learning and the personal identity they have developed, as the richer and more diverse their experience, the more the diversity they can bring to their own learning.”
+
+In other words, your life experience in learning the things you did before learning code will make this new experience more meaningful for you, and reflection on all of your experiences is essential in maximizing what you can gain from your study at Code Fellows. How do you think your prior life and professional experience will help you in this new endeavor?
+
+I think my previous experience in life will help in cybersecurity in the following ways. I was a mechanic for 10 years before I joined the military. This helped me learn how to figure out complex problems on my own and pay attention to detail. I joined the military after and was in communications for 10 plus years mostly satellite communications and networking. While in the military I was expected to know more than just my job and cross trained all the time. Most of this experience while in the service was tactical communications. Once I left the military I worked at a NOC for about 2.5 years as well assisting in trouble shooting communications on aircraft and tactical terminals. I think my career is pretty diverse and I am looking to branch off again with cybersecurity.
+
+## Chat GPT assisted me below
+
+Your previous experiences as a mechanic, a military communications specialist, and a NOC (Network Operations Center) technician have equipped you with a valuable skill set and mindset that can be highly beneficial in the field of cybersecurity. Here's how your diverse background can be an advantage:
+1. Problem-Solving Skills: Your experience as a mechanic, where you had to diagnose and resolve complex issues, has honed your problem-solving skills. In cybersecurity, identifying and mitigating security threats often involves solving intricate problems, making your mechanical experience transferable.
+
+
+2. Attention to Detail: Attention to detail is crucial in cybersecurity. Small oversights can lead to significant vulnerabilities. Your background in mechanical work and military communications, where precision is essential, can help you excel in maintaining and securing systems with meticulous care.
+
+
+3. Cross-Training: The military experience of cross-training and being adaptable is invaluable in cybersecurity. Cyber threats are diverse and ever-evolving, so your ability to learn and adapt quickly is an asset when dealing with new security challenges.
+
+
+4. Communication and Networking Expertise: Your extensive experience in satellite communications and networking is directly relevant to cybersecurity. Understanding network protocols, architectures, and vulnerabilities is a significant advantage when securing networks and data.
+
+
+5. Tactical Communications: Tactical communications experience brings a unique perspective to cybersecurity. Military tactics and strategies can be applied to the defense of systems and information assets.
+Critical Thinking: Your military service likely involved critical thinking in high-stress situations. In cybersecurity, this skill helps assess threats, vulnerabilities, and responses effectively.
+
+
+6. NOC Experience: Working in a NOC gives you insights into network monitoring and incident response, which are crucial aspects of cybersecurity.
+Diverse Skill Set: Your diverse background allows you to approach cybersecurity from different angles. You can understand the technical aspects of systems and also consider security from operational and strategic perspectives.
+
+
+7. Adaptability: You've demonstrated adaptability throughout your career. In cybersecurity, where threats change rapidly, this adaptability is a vital trait.
+Security Clearance: If your military role required security clearances, this can be a significant advantage in certain cybersecurity roles, especially in government or defense-related positions.
+Your diverse career path has equipped you with a valuable set of skills, and it's clear that you're well-prepared to transition into the field of cybersecurity. Consider pursuing relevant certifications or further education in cybersecurity to complement your existing knowledge and skills. Your unique background can make you a valuable asset in the constantly evolving world of cybersecurity.
+
+## Chat GPT link
+
+https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d
+
 
 # Ops 301: Networking and Systems Administration
 
