@@ -227,6 +227,42 @@ Your diverse career path has equipped you with a valuable set of skills, and it'
 
 https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d
 
+## Read: Class 04
+
+## Troubleshooting Techniques
+
+Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+## Reading
+
+CompTIA A+ 220-902 Troubleshooting Methodology
+
+1. What should you do if multiple issues are happening simultaneously during troubleshooting?
+
+Make sure you ask the customer a lot of questions to isolate the issue. Ask them if something has changed recently or if it is a recurring issue to narrow things down. Consider all possible scenarios and try to make a theory on the cause of the issue or issues.
+
+2.What should be done once a successful solution has been identified during the troubleshooting process? 
+
+Figure out how you will implement your solution and how it could affect the network. Come up with a process on what you will do if the solution does not fix the problem or something goes wrong and you may have to revert to the previous settings or configurations. Coordinate with other sections to make sure that it will not interfere with daily operations.
+
+3. What are the benefits of documenting the entire troubleshooting process in a knowledge base?
+
+Continuity, it is very helpful if this occurs again or it is necessary to reference for any other reason mainly to cover your behind. We had to document everything when I worked at the NOC even if just for the reason of justifying our job.
+
+4. Think about a technological device particularly popular in your culture or community. Imagine a scenario where issues arise: how would you apply CompTIA A+ troubleshooting methodology to help, while considering the end-user’s cultural background? 
+
+You may have to take into account how much experience an individual has with technology. My grandma for instance would ask me at times for help with her cell phone when she first got one. She kinda rejected the technology at first since she had a dial phone all her life. Some of the functions confused her at first and she did not like them. A few years later once she got familiar with the device she loved it, I just had to be patient with her due to her lack of experience with those types of devices.
+
+## References
+
+[CompTIA A+ 220-902 Troubleshooting Methodology](https://www.professormesser.com/free-a-plus-training/220-902/how-to-troubleshoot/)
+
+## Things I want to know more about
+I am interested in working smarter and not harder though proper troubleshooting methodology.
+
+
 
 # Ops 301: Networking and Systems Administration
 
