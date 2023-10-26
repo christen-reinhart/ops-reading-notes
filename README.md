@@ -263,7 +263,6 @@ You may have to take into account how much experience an individual has with tec
 I am interested in working smarter and not harder though proper troubleshooting methodology.
 
 
-
 # Ops 301: Networking and Systems Administration
 
 - [ops-301-reading-01.md](ops-301-reading-01.md)
