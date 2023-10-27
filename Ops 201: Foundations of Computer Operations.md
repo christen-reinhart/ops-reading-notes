@@ -96,5 +96,23 @@ The reason this topic is important to know is to understand the underlying syste
 ### Things I want to know more about: 
 - I would like to know more about Linux and the CLI.
 
+## Learning Journal
+
+## Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+You should probably only spend about 10-15 minutes on this assignment, although if you would find it helpful to invest more time, you are welcome to do so.
+
+## Reflection
+
+In other words, understanding your motivation for learning contributes to the effectiveness of your learning, and your learning journal is a place to explore those thoughts. What are your motivations for learning?
+
+I am motivated to steer my career in a new direction, transitioning away from the world of satellite communications and moving closer to the realms of networking and system administration. Within the vast landscape of IT careers, I find cybersecurity particularly appealing and esteemed. This field encompasses a multifaceted range of IT disciplines, including coding, networking, system administration, and the critical art of monitoring and interpreting data using SIEMs (Security Information and Event Management systems).
+My intention is not to depart from the IT field but to leverage my prior experiences and educational benefits offered through the VA to embark on a journey that aligns more closely with my evolving career aspirations. Cybersecurity, with its dynamic and constantly evolving nature, offers the perfect opportunity for me to utilize the knowledge and skills I've gained in the past while also expanding my expertise and contributing to the vital task of safeguarding digital landscapes.
+## References
+[Chat GPT](https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d)
+
+
 # seattle-ops-201d14-reading3
 # seattle-ops-201d14-reading4
