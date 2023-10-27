@@ -262,6 +262,64 @@ You may have to take into account how much experience an individual has with tec
 ## Things I want to know more about
 I am interested in working smarter and not harder though proper troubleshooting methodology.
 
+## Read: Class 05
+
+
+## Windows Command Line Tools
+
+Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
+
+This topic is important to aid in troubleshooting and gain a better understanding of interfacing through the CLI instead of the GUI.
+
+## Reading
+
+
+How can you list the files in the current directory using the command prompt?
+
+Press Win + R to open the "Run" dialog.
+Type "cmd" and press Enter, or
+Search for "Command Prompt" in the Start menu and open it.
+To list files in the current directory, simply use the dir command:
+
+
+
+
+How might the “sfc” command and the “gpupdate” command help in troubleshooting on 
+            Windows?
+         
+ sfc (System File Checker):
+Purpose: The "sfc" command is used to scan and repair corrupted or missing system files on a Windows system.
+When Windows system files become corrupted or are missing, it can lead to various issues, including system instability, application errors, and system crashes.
+
+
+  gpupdate (Group Policy Update):
+Purpose: The "gpupdate" command is used to refresh Group Policy settings on a Windows computer. Group Policy defines various settings and configurations for Windows systems within a network.
+In a networked environment, Group Policy settings play a crucial role in controlling security, user, and system configurations.
+
+
+
+
+What advantages does the “robocopy” command offer over the “xcopy” command, and why is it useful for file transfers in certain situations?
+
+Robocopy is specifically designed for robust and reliable file copying. It is more resilient to network interruptions and system failures.
+
+Robocopy offers a wide range of options and switches that allow you to customize the copying process. You can control factors like file attributes, timestamps, and directory structures.
+
+Think about any real-life scenarios from your cultural context where the use of command line tools could be beneficial. Describe one such scenario and explain how a specific command line tool would help address the situation.
+
+I frequently use 'ipconfig' and 'ping' in troubleshooting. 'ipconfig' is particularly helpful for identifying the local computer's IP address. I used it recently to successfully complete the previous lab, allowing me to determine the IP address needed for Remote Desktop Protocol (RDP) access to the VM.
+'Ping' is one of the most valuable troubleshooting tools for an IT technician when it comes to testing network connectivity. Once you have the IP address you're trying to reach, you can use 'ping' to verify connectivity.
+## References
+
+[Chat GPT](https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d)
+
+[Professor Messer](https://www.professormesser.com/professor-messer-archives/220-1002/microsoft-command-line-tools/)
+
+## Things I would like to know more about
+
+How to better utilize the different CLI interfaces to aid in troubleshooting.
+
+
 
 # Ops 301: Networking and Systems Administration
 
