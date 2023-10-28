@@ -350,6 +350,41 @@ Share a screenshot of your LinkedIn connection request, including a nicely worde
 
 Completed the task requesting a connection and took a screenshot.
 
+## Instructor 1-on-1 Meeting
+
+During the course, your instructor will work with you to schedule time for a brief in-person meeting.
+
+Before you meet with your instructor, please answer a few questions so that we can make your time in this course as productive as possible.
+
+## Reflection
+
+Take a moment to reflect on:
+
+1. What are your goals while taking this course?
+
+To stay open minded and learn as much as possible to set me up for success in my future in cybersecurity.
+
+2. Are there any areas of concern, questions about the course or adjustments we might consider?
+
+I am having issues understanding the coding aspect of the course(Ops Challenges).
+
+3. What professional proficiency would you consider to be your top strength?
+
+Hard work and being willing to put in the time even if I don't understand something to gain a better grasp on the subject.
+
+4. What areas of professional competency would you like to improve?
+
+The coding and command line aspect of the course.
+
+## Assignment
+
+Please share your reflections here, for the instructional team to review prior to your 1-on-1 meeting.
+
+My biggest concern is the limited amount of time in the day and the volume of information required to fully comprehend the material and apply it in a practical environment. 
+
+On the positive side, I am consistently pushing myself to meet the standards of this course. So, I am pushing the envelope, and that is a good thing, considering that, from what I can see so far, I am managing well
+
+
 
 # Ops 301: Networking and Systems Administration
 
