@@ -384,6 +384,30 @@ My biggest concern is the limited amount of time in the day and the volume of in
 
 On the positive side, I am consistently pushing myself to meet the standards of this course. So, I am pushing the envelope, and that is a good thing, considering that, from what I can see so far, I am managing well
 
+## Learning Journal: Class 05
+## Learning Journal
+
+Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+You should probably only spend about 10-15 minutes on this assignment, although if you would find it helpful to invest more time, you are welcome to do so.
+
+## Reflection
+
+Write a brief reflection on your learning today, or use the prompt below to get started.
+
+“Adults need to know why to learn something; as soon as they answer this question, they are ready to start.”
+
+The why applies to both large-scale (learning web development as a new profession) and small-scale (learning a particular tool or technique), and your learning journal is an excellent place to identify and contemplate those whys. They are important. So… what is your why?
+
+Learning a new skill or profession can open up opportunities for career growth and higher earning potential. Sometimes, the "why" is simply a deep interest or passion for a subject or field. Learning can lead to greater job satisfaction by allowing you to work on projects or in roles that align with your interests. Some people learn because it allows them to express their creativity and innovation. Learning a specific tool or technique may be driven by the need to solve specific problems or challenges.
+
+## References
+
+[Chat GPT](https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d)
+
+
 
 
 # Ops 301: Networking and Systems Administration
