@@ -319,6 +319,36 @@ I frequently use 'ipconfig' and 'ping' in troubleshooting. 'ipconfig' is particu
 
 How to better utilize the different CLI interfaces to aid in troubleshooting.
 
+## Weekly Partner Power Hour Report
+
+You may find it difficult or challenging to connect with industry professionals and gain an inside look at how the tech world operates. We’ve drawn on our network to bring you speakers and topics relevant to this stage of your career transition. These presentations may serve to educate, enlighten, and motivate you along your journey. Take advantage of this opportunity, and make the most of the insights these presentations provide… you never know where a connection will lead.
+
+## Instructions
+
+If there is no live presentation on campus in this module, select the appropriate presentation from the list below.
+
+All presenters are open to connections and invite you to reach out to them, so that you can learn more about them, their company, and the industry.
+
+Presentations
+
+Module	Topic	Speaker
+01	Oops —- I did Git Again	Hexx King
+
+## Assignment
+
+## Contribute to the discussion:
+
+Share one or two ways the speaker’s information will change your approach to your career transition.
+
+Making sure my public profile represents good and professional values.
+
+How to customize your profile in order to make you stand out to potential employers.
+
+## List a few key take-aways from this presentation.
+
+Share a screenshot of your LinkedIn connection request, including a nicely worded note, sent to the speaker or someone else at their company. 
+
+Completed the task requesting a connection and took a screenshot.
 
 
 # Ops 301: Networking and Systems Administration
