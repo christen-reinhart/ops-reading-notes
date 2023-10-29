@@ -407,6 +407,61 @@ Learning a new skill or profession can open up opportunities for career growth a
 
 [Chat GPT](https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d)
 
+## Read: Class 06
+
+## Windows Security Center
+
+Below you will find some reading materials and some additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+## Readings
+
+Windows Defender Security Center
+
+What are the five main sections included in the Windows Defender Security Center, and what functionalities do they offer?
+
+Virus & Threat Protection: This section is focused on protecting your computer from malware and other threats.
+Device Performance & Health: This section helps you keep your device running smoothly and identify potential issues.
+
+Firewall & Network Protection: Configure the Windows Firewall settings to control incoming and outgoing network traffic.
+ App & Browser Control: You can configure SmartScreen settings to protect your device from potentially malicious apps and websites.
+      e)   Family Options: If you're using Windows in a family environment, this section    provides parental control and monitoring features.
+
+2. What information does the “Device performance & health” section provide, and how can you access it?
+
+Health Report: Storage capacity, Battery life, Apps and Software, Windows Time Service, Fresh Start 
+
+In Windows Security go to Device Performance and Health.
+
+  3. How does the Windows Defender Security Center notify you of issues that require your    attention?
+
+When there is a critical security issue or recommendation, Windows Security may display a pop-up notification.
+The Windows Security system tray icon, which appears in the taskbar, may display a yellow exclamation mark when there are security issues or recommendations.
+
+4. What features are managed under the “Firewall & network protection” section in the Windows Defender Security Center?
+
+Domain network, Private network, Public network
+
+5. How does the concept of “security” in Windows Defender Security Center relate to your own experiences in keeping your personal belongings safe? Share some strategies you use to protect your belongings and how they might parallel the security measures used in the digital world.
+
+In the physical world, we use locks and keys to control access to our homes or private spaces. Similarly, in the digital world, access control is managed through usernames and passwords.
+Firewalls in the physical world are barriers that prevent the spread of fires. In the digital world, firewalls act as barriers that control network traffic and protect your devices from unauthorized access or malicious activity.
+In both worlds, having backups is crucial. In the physical world, we may make copies of important documents or store duplicates of valuable items.
+
+## Things I want to know more about 
+
+Troubleshooting Windows related issues and utilizing the CMD prompt.
+
+## References
+
+[Article](https://www.faqforge.com/windows/windows-10/what-is-event-viewer-and-how-to-use-it-in-windows-10/)
+
+[Chat GPT](https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d)
+
+[Windows Defender](https://www.thewindowsclub.com/windows-defender-security-center)
+
+
 
 
 
