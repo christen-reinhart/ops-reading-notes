@@ -457,6 +457,35 @@ Troubleshooting Windows related issues and utilizing the CMD prompt.
 
 [Article](https://www.faqforge.com/windows/windows-10/what-is-event-viewer-and-how-to-use-it-in-windows-10/)
 
+## Career: Class 06: Behavioral Interview Questions
+
+
+## Behavioral Interview Questions
+
+Read through this document on the S.T.A.R method, which is the style potential employers prefer and expect you to answer questions during a behavioral interview.
+
+## Assignment
+
+Ask a chatbot of your choice to ask you 3 behavioral interview questions, one at a time. Answer the provided questions in the S.T.A.R method and ask the chatbot to provide you feedback.
+
+Tell me about a time when you had to meet a tight deadline. What was the situation, the specific task, the action you took, and the result?
+
+One time at band camp I had to jump a small form-factor communications platform out of an aircraft to support communications on the ground afterwards in support of a COMEX. First I would have to find out the requirements which usually included SIPR and NIPR, data and VOIP with the ability to send an encrypted email for a SITREP on both enclaves. The communications platform had wireless capability so I could tether my phone as a primary means of connectivity and I would bring a BGAN for my secondary means of transport for the kit as part of my PACE plan. I would also bring an Iridium satellite phone just in case for a contingent means of communication and for troubleshooting. Next I would perform a complete inventory of my equipment for accountability and have an inventory sheet with SNs as part of my mission folder. Then I would identify an individual to jump the equipment with and how we would cross load the kit. I would then perform a complete OPS check of the equipment verifying all services and my cut sheets with system baseline configurations and IP schemes. Prior to packing the items I would make sure the batteries were changed and time our setup for proper standards. I would then draw all CCI(sensitive material) and COMSEC and get my courier orders in order to be able to move equipment off the compound. Once all the equipment was properly sorted out I would pack it according to my packing list and stage it in a secure area. I would then be responsible for giving a mission brief/ presentation to the commander and answer any related questions. Fast forward once exiting the aircraft and getting on the ground I would get accountability of my items and move to a cleared area. From there we would move into setting up the COMMS for the time standard which was usually 30 min and then send up my SITREPs via email with accountability of all personnel and equipment including CCI. 
+                                                                                                                                                                                  
+Can you share an example of a time when you had to work with a difficult team member or coworker? Describe the situation, the task at hand, the actions you took, and the outcome.
+
+  I had to work with an individual who had issues being on time to PT formation. This would hold up the process of conducting physical fitness afterward. It hindered my ability to get accountability of personnel prior to moving out and conducting PT. It also impacted the additional personnel I was responsible for since it impacted their training as well. At first I verbally counseled him, basically giving him a warning. I then wrote him up after multiple offenses. After that I assigned him additional duties as part of corrective actions. This basically pissed him off and he would not participate in exercises essentially sandbagging and not trying. Eventually I pulled him to the side and spoke man to man asking him if there was something I needed to know about him that would help me understand his situation better. He informed me of some additional things going on with him which helped me be more understanding so I could work with him. After this I was able to report back to my chain of command to work something out for him within reason. After some time his personnel situation resolved itself and things were back to normal essentially. He was a good guy, we just had to dig a little deeper since he wasn't talking about what was going on with him.
+ 
+Tell me about a situation where you faced a significant challenge or obstacle at work. How did you handle it? Please describe the situation, the task, the actions you took, and the results. 
+
+Towards the end of my career in the Army I had differences of opinion with my boss to say the least. He wasn't very honest and didn't take care of his people. I butted heads with him and voiced my opinion and it essentially backfired. Myself and quite a few others tried to make people understand above him but the leadership backed him even though he was wrong in my opinion. For leadership to side with us instead of him would completely undermine his command even if he was wrong. Unfortunately I learned the hard way sometimes you have to pick your battles even if you feel you are right. In a normal job you would just quit; you can't do that in the military for the most part. I later told him I couldn't work for him anymore and to move me to another section. For the remainder of my time in the military I just kept quiet and did my time.
+
+## References
+
+[STAR Method](https://careerservices.wayne.edu/pdf/behavioralinterviewinfo.pdf)
+[Chat GPT](https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d)
+
+
 [Chat GPT](https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d)
 
 [Windows Defender](https://www.thewindowsclub.com/windows-defender-security-center)
