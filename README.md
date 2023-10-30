@@ -490,6 +490,23 @@ Towards the end of my career in the Army I had differences of opinion with my bo
 
 [Windows Defender](https://www.thewindowsclub.com/windows-defender-security-center)
 
+## Learning Journal 6
+
+## Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+You should probably only spend about 10-15 minutes on this assignment, although if you would find it helpful to invest more time, you are welcome to do so.
+
+## Reflection
+
+Write a brief reflection on your learning today, or use the prompt below to get started.
+
+“What motivates adults to find time for their learning in their busy schedule? Mostly intrinsic motivators.”
+
+In other words, adults are motivated by internal forces rather than by external expectations, and your learning journal provides an outlet for considering and noting those internal forces. Which of your internal forces for learning can you concretely identify? 
+
+I want to learn more about IT, plain and simple. I found myself getting stagnant in the role I was in and wanted to use the education benefits afforded to me through the VA to advance that objective. I almost feel foolish for not taking advantage of a free education. I really wish I had gone to college a long time ago, although it would not have been free at the time. After Code Fellows, I still want to advance my education further. This is just the beginning. My only worry is that by focusing specifically on education, I may lose the hands-on experience that work provides. That being said, many others are getting into the field with no experience, just Code Fellows. At the end of the day I just want to be good at what I do and to be appreciated for it while being compensated properly.
 
 
 
