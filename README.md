@@ -508,6 +508,67 @@ In other words, adults are motivated by internal forces rather than by external 
 
 I want to learn more about IT, plain and simple. I found myself getting stagnant in the role I was in and wanted to use the education benefits afforded to me through the VA to advance that objective. I almost feel foolish for not taking advantage of a free education. I really wish I had gone to college a long time ago, although it would not have been free at the time. After Code Fellows, I still want to advance my education further. This is just the beginning. My only worry is that by focusing specifically on education, I may lose the hands-on experience that work provides. That being said, many others are getting into the field with no experience, just Code Fellows. At the end of the day I just want to be good at what I do and to be appreciated for it while being compensated properly.
 
+## Read: Class 07
+
+
+## OS Upgrade and Remote Access
+
+Below you will find some reading materials and some additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+## Reading
+
+Should You Learn Powershell?
+
+PowerShell is used by both defenders and attackers in the cybersecurity field. Understanding PowerShell can be valuable for security professionals to analyze and defend against potential threats.
+
+Who needs malware? IBM says most hackers just Powershell through boxes now, leaving little in the way of footprints
+
+PowerShell scripts can run directly in memory, making them less likely to be detected by traditional antivirus software. This "fileless" approach can help hackers avoid leaving easily detectable footprints on a system.
+
+What is the difference between Bash and PowerShell?
+
+Bash is the default shell for Unix-based systems, including Linux and macOS.
+Bash uses a combination of built-in commands and shell scripting to automate tasks.
+  PowerShell is the default command-line shell for Windows. PowerShell is a full-fledged scripting language that goes beyond simple text processing. 
+
+
+In what scenarios or environments can you use PowerShell? Name some major platforms where PowerShell is supported.
+
+PowerShell is widely used for system administration tasks on Windows servers and workstations. PowerShell is a powerful scripting language for automating repetitive tasks, such as software installations, system backups, and log analysis. PowerShell is integrated with Azure for cloud resource management. PowerShell is used for SQL Server administration and automation.
+
+List at least three reasons why learning PowerShell could be beneficial for your career and environment. 
+
+PowerShell enables the automation of routine, time-consuming tasks, which can significantly improve efficiency. In the event of a security breach or incident, PowerShell can be used to quickly respond, contain, and investigate the breach. PowerShell can help enforce security policies and configurations consistently across systems. Cybersecurity professionals often use PowerShell during penetration testing and red teaming exercises to simulate real-world attacks and assess an organization's security defenses.
+
+How can PowerShell’s automation capabilities improve efficiency and reduce manual errors?
+Think about a situation where you might use PowerShell in your everyday life or job. How could 
+PowerShell helps you accomplish a specific task or solve a problem?
+
+PowerShell allows you to automate repetitive tasks that you perform regularly.
+PowerShell scripts can perform tasks much faster than manual execution. 
+PowerShell provides robust error-handling mechanisms.
+PowerShell can be integrated with task schedulers to run scripts at specific times or intervals. 
+
+What is a Powershell attack?
+
+A cyberattack technique in which an attacker leverages the PowerShell scripting and automation framework to carry out malicious activities on a target system or network. 
+
+## References:
+
+[What is PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3&viewFallbackFrom=powershell-7)
+
+[Getting Started with PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.3&viewFallbackFrom=powershell-7)
+
+[Powershell Variables and Operators](https://ss64.com/ps/syntax-variables.html)
+
+[Chat GPT](https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d)
+
+## Things I would like to know more about
+
+I would like to gain a greater understanding of power shells uses in automation and cybersecurity
+
 
 
 
