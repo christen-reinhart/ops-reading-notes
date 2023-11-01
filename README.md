@@ -585,6 +585,53 @@ Motivation and goals are an important part of adult learning; so is adapting to 
 
 The most unexpected part of today was Lab 7. It was quite challenging and took me about 4 hours to complete. Some of this was my own fault; I went ahead accidentally before reimagining the Windows machine from 7 to 10. Once that was completed, I had some additional issues with the PowerShell commands. I was not aware that they were case-sensitive. I wish I would have had more of an idea about the amount of scripting and CLI that was involved, so I could be more prepared. I wish I would have had a better feel for how time-consuming this class would be. I am putting in about 12 hours a day on average just in class work. That does not include the reading for the CompTIA test coming up and the test questions we are responsible for. I am trying to be open-minded and flexible since this can replicate real-world scenarios. I am also trying to humble myself and be appreciative of the opportunity afforded to me through the VA and Code Fellows. I guess I will just keep doing my best and keep pushing the believe button.
 
+## Read: Class 08
+
+## Readings: System Log Analysis, Registry, Control Panel
+
+Below you will find some reading materials and some additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+## Reading
+
+## Windows Registry Demystified
+
+What is the Windows Registry, and what does it store?
+
+The Registry stores various settings related to the Windows operating system itself. Installed applications and software packages can use the Registry to store their own settings and configurations. User-specific settings, preferences, and customizations are stored in the Registry.
+
+What are the two types of registry settings stored for each Windows user account?
+
+HKEY_CURRENT_USER (HKCU): This hive stores user-specific settings and configurations. 
+HKEY_USERS (HKU): This hive contains subkeys for all user profiles that have logged into the system.
+
+What are “registry hacks” and why might someone want to use them?
+
+Registry hacks can be used to personalize the Windows user interface. Some registry hacks can improve system performance by adjusting settings related to memory usage, file access, and system responsiveness. It's possible to enable or disable certain features in Windows using registry hacks.
+
+
+What are some common tasks you can perform by editing the Windows Registry?
+
+Change the desktop background, screensaver, and theme settings.
+Customize the appearance of the taskbar, icons, and window borders.
+Modify the appearance of folder icons and system fonts.
+
+
+
+Imagine you’re explaining the concept of the Windows Registry to someone who has never used a computer before. How would you make this explanation culturally relevant and relatable to their life experiences or background? 
+
+Imagine your computer is like a big, organized library, and the Windows Registry is like a special book in that library. This special book contains important information about how your computer works, almost like the secret recipe for your favorite family dish. Just like in a recipe, where you need the right ingredients and instructions to make a delicious meal, your computer needs the information in this book to work correctly.
+
+## References
+
+[Chat GPT](https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d)
+
+[Windows Event Viewer](https://www.faqforge.com/windows/windows-10/what-is-event-viewer-and-how-to-use-it-in-windows-10/)
+
+## Things I want to know about
+
+The different ways hackers can manipulate the registry or use it in cyber attacks.
 
 
 
