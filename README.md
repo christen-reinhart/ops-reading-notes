@@ -633,6 +633,103 @@ Imagine your computer is like a big, organized library, and the Windows Registry
 
 The different ways hackers can manipulate the registry or use it in cyber attacks.
 
+## Ops Challenge: Class 08
+## Ops Challenge - Windows Batch Scripting
+
+It could be said that batch scripts are to Windows as bash scripts are to Linux. If you’re using basic Windows terminal commands (non-Powershell), then a .bat file is the way to go!
+
+## Objectives
+
+Students will learn how to use the ROBOCOPY command to perform recursive file copy operations.
+
+## Resources
+
+How to Use Windows Batch File Commands to Automate Repetitive Tasks
+Wikibooks: Windows Batch Scripting
+
+## Tasks
+
+## Part 1: A Batch File. Your job is to document every single line of the batch file in detail. Explain what is happening.
+
+## @echo off: 
+
+
+- This command turns off echoing of executed commands to the console, making the script output cleaner by not displaying each command.
+
+
+## setlocal enabledelayedexpansion: 
+
+
+- This command enables delayed environment variable expansion, which is useful when working with variables in loops or code blocks.
+
+
+## set /p sourcePath=Enter the source folder path:: 
+
+
+- This line prompts the user to enter the path of the source folder and stores the input in the sourcePath variable.
+
+
+## set /p destinationPath=Enter the destination folder path:: 
+
+
+- Similarly, this line prompts the user to enter the path of the destination folder and stores the input in the destinationPath variable.
+
+
+## if not exist "!sourcePath!\": 
+
+
+- This line checks if the source folder specified by the user exists. If it doesn't exist, it displays an error message and exits the script using the goto :eof command.
+
+
+## if not exist "!destinationPath!\": 
+
+
+- Similar to the previous line, this checks if the destination folder exists and displays an error message if it doesn't.
+
+
+
+
+
+
+## robocopy "!sourcePath!" "!destinationPath!" /E: 
+
+
+- The core of the script, this command uses Robocopy to copy the contents of the source folder to the destination folder. The /E flag tells Robocopy to copy subdirectories, including empty ones.
+
+
+## if errorlevel 8: 
+
+
+- After the Robocopy operation, this line checks the error level returned by Robocopy. If the error level is 8 or higher, it indicates that Robocopy encountered errors during the copy operation. In this case, the script displays an error message.
+
+
+## else: 
+
+
+- If no errors are detected by Robocopy (i.e., the error level is less than 8), the script displays a success message indicating that the copy operation was completed successfully.
+
+
+## :end: 
+
+
+- This is a label used to indicate the end of the script. It's typically used with the goto command for exiting the script.
+
+
+## endlocal: 
+
+
+- This command marks the end of the local environment variable scope defined by setlocal. It ensures that any environment variable changes made within the script are discarded when the script ends.
+
+
+## Part 2: Push to GitHub
+
+Since your Ops Challenge repository is stored locally on your Ubuntu, the most convenient way to submit the assignment is by logging in to GitHub on your Windows VM.
+
+Once you have successfully logged into your GitHub profile on the Windows VM, create a new file in your Ops Challenge repository. Copy and paste your batch script into the new file and save it with the appropriate file extension.
+
+Before you can ACP changes from your Ubuntu Server again, make sure to synchronize the changes you made while using the Windows VM to avoid conflicts. To achieve this, run git pull from the terminal before you begin any new tasks in your local repository on your Ubuntu. Help your team with this today as it may be a little confusing.
+
+
 
 
 
