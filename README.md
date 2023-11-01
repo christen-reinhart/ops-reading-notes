@@ -569,6 +569,24 @@ A cyberattack technique in which an attacker leverages the PowerShell scripting 
 
 I would like to gain a greater understanding of power shells uses in automation and cybersecurity
 
+## Learning Journal 7
+
+## Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+You should probably only spend about 10-15 minutes on this assignment, although if you would find it helpful to invest more time, you are welcome to do so.
+
+## Reflection
+
+Write a brief reflection on your learning today, or use the prompt below to get started.
+
+Motivation and goals are an important part of adult learning; so is adapting to and gaining insight from things you did not anticipate. What would you say is the most unexpected part of this experience, and how have you learned from it?
+
+The most unexpected part of today was Lab 7. It was quite challenging and took me about 4 hours to complete. Some of this was my own fault; I went ahead accidentally before reimagining the Windows machine from 7 to 10. Once that was completed, I had some additional issues with the PowerShell commands. I was not aware that they were case-sensitive. I wish I would have had more of an idea about the amount of scripting and CLI that was involved, so I could be more prepared. I wish I would have had a better feel for how time-consuming this class would be. I am putting in about 12 hours a day on average just in class work. That does not include the reading for the CompTIA test coming up and the test questions we are responsible for. I am trying to be open-minded and flexible since this can replicate real-world scenarios. I am also trying to humble myself and be appreciative of the opportunity afforded to me through the VA and Code Fellows. I guess I will just keep doing my best and keep pushing the believe button.
+
+
+
 
 
 
