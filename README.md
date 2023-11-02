@@ -729,6 +729,21 @@ Once you have successfully logged into your GitHub profile on the Windows VM, cr
 
 Before you can ACP changes from your Ubuntu Server again, make sure to synchronize the changes you made while using the Windows VM to avoid conflicts. To achieve this, run git pull from the terminal before you begin any new tasks in your local repository on your Ubuntu. Help your team with this today as it may be a little confusing.
 
+## Learning Journal 8
+
+## Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+You should probably only spend about 10-15 minutes on this assignment, although if you would find it helpful to invest more time, you are welcome to do so.
+
+## Reflection
+
+For this journal entry, no specific prompt other than to start off with “Today I learned…” or “Recently I learned…” and go from there.
+
+Today, I learned to collaborate with others to achieve a common goal. This experience was particularly unique due to the virtual nature of our learning process. I believe it all worked out well, and we not only learned about event viewers but also delved into system log analysis and explored the process of restoring the system after manipulating the registry, which was quite fascinating. I had been somewhat frustrated yesterday, but working with others helped take my mind off it, as we all found common ground.
+
+
 
 
 
