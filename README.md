@@ -782,6 +782,10 @@ Offer training and education sessions that explain the SOPs and provide an oppor
 Promote cultural awareness and sensitivity within the team. 
 Recognize that different cultures may have alternative ways of approaching tasks. 
 
+## Things I want to know more about
+
+Proper formating and use of references in a SOP
+
 ## References
 
 [What is a SOP](https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop)
