@@ -782,6 +782,23 @@ Offer training and education sessions that explain the SOPs and provide an oppor
 Promote cultural awareness and sensitivity within the team. 
 Recognize that different cultures may have alternative ways of approaching tasks. 
 
+## Learning Journal 9
+
+## Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+You should probably only spend about 10-15 minutes on this assignment, although if you would find it helpful to invest more time, you are welcome to do so.
+
+## Reflection
+
+Write a brief reflection on your learning today, or use the prompt below to get started.
+
+Consider the “learning pyramid" as shown in the image below. Do you find that matches the way that you learn, or would you weigh the activities differently? If so, how?
+
+The more involved you are in the learning process the better your retention of the information. When I learn hands on I retain the information longer and understand it better. If I am just listening to a lecture I can have a tendency to zone out. If I know I am responsible for teaching others, not only do I have to know the material myself, I need to be able to break it down to others in a way that they will understand.
+
+
 ## Things I want to know more about
 
 Proper formating and use of references in a SOP
@@ -793,6 +810,21 @@ Proper formating and use of references in a SOP
 [Chat GPT](https://chat.openai.com/c/b2dc5c3a-5c88-4ed4-9b5f-1a90b0c0779d)
 
 
+## Learning Journal 9
+
+## Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+You should probably only spend about 10-15 minutes on this assignment, although if you would find it helpful to invest more time, you are welcome to do so.
+
+## Reflection
+
+Write a brief reflection on your learning today, or use the prompt below to get started.
+
+Consider the “learning pyramid" as shown in the image below. Do you find that matches the way that you learn, or would you weigh the activities differently? If so, how?
+
+The more involved you are in the learning process the better your retention of the information. When I learn hands on I retain the information longer and understand it better. If I am just listening to a lecture I can have a tendency to zone out. If I know I am responsible for teaching others, not only do I have to know the material myself, I need to be able to break it down to others in a way that they will understand.
 
 
 
