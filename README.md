@@ -893,6 +893,30 @@ Article - How to Get started with Veeam Free Edition Veeam Agent for Microsoft W
 
 The processing of assessing and planning for a disaster recovery and business specific strategies for modeling one.
 
+## Learning Journal: Class 10
+
+## Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+You should probably only spend about 10-15 minutes on this assignment, although if you would find it helpful to invest more time, you are welcome to do so.
+
+## Reflection
+
+Write a brief reflection on your learning today, or use the prompt below to get started.
+
+Read this short article on Imposter Syndrome. On a scale from 1 (least) to 10 (most), to what extent do you experience these feelings? Have you always felt the way you do now? If you have successfully lowered the number you’d use to rate your Imposter Syndrome, how have you done so?
+
+Imposter Syndrome is a common experience, and the intensity of these feelings can vary from person to person. I have experienced moments of self-doubt and feelings of inadequacy, but the degree to which can differ over time and in various circumstances or the situation. It's not unusual for people to struggle with Imposter Syndrome at certain points in their lives, especially as they face new challenges or responsibilities.
+To lower the level of Imposter Syndrome, individuals can take several steps, such as acknowledging their achievements and abilities, seeking support and guidance from mentors or peers, reframing negative thoughts, practicing self-compassion, and maintaining a growth mindset. It's essential to recognize that addressing Imposter Syndrome is an ongoing process, and it may require different strategies for different individuals. The key is to develop self-awareness and constructive habits to build confidence and overcome self-doubt.
+
+
+
+## References
+
+[Unmasking Imposter Syndrome](https://asana.com/resources/impostor-syndrome) 
+
+[Chat GPT](https://chat.openai.com/c/e7817477-48cf-4b9a-8ac7-7dc17247a571) 
 
 
 # Ops 301: Networking and Systems Administration
