@@ -918,6 +918,58 @@ To lower the level of Imposter Syndrome, individuals can take several steps, suc
 
 [Chat GPT](https://chat.openai.com/c/e7817477-48cf-4b9a-8ac7-7dc17247a571) 
 
+## Read: Class 11
+
+
+## Data Restoration, Startup Repair, and Secure Disposal
+
+Below you will find reading materials and some additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+## Reading
+
+Solarwinds MSP: SSD Data Recovery Best Practices
+
+What are some common indicators that an SSD may be failing?
+SSDs can overheat if cooling is insufficient or if they are near the end of their lifespan.
+Files and folders may suddenly disappear or become inaccessible, indicating potential data loss.
+SSDs can develop bad blocks over time, causing data errors and instability. 
+
+How do SSD failures differ from HDD failures in terms of detectability?
+HDDs often produce audible sounds like clicking, grinding, or whirring when they're failing, making the issue more noticeable.
+HDDs can slow down significantly when they start to fail, causing slower read and write operations. 
+SSDs generate less heat, so overheating may not be as common as an indicator of failure.
+
+What are bad blocks in an SSD, and how do they affect its performance?
+Bad blocks in an SSD (Solid State Drive) are sections of memory cells that have become defective and are no longer reliable for storing data.
+When an SSD detects a bad block, it will typically mark it as "unusable" and avoid using it for data storage. 
+As bad blocks accumulate, the SSD may experience higher error rates during read and write operations, leading to system instability and increased likelihood of data loss.
+
+How can power cycling an SSD help resolve certain issues?
+Some SSD firmware updates may require a power cycle to apply changes effectively.
+In cases where an SSD becomes unresponsive or data becomes inaccessible, power cycling can sometimes provide a temporary window to recover data before more serious issues develop.
+
+How might this topic be relevant in the aftermath of a natural disaster? Describe how individuals or communities can use these techniques to recover data and resume their normal activities.
+
+Depending on the natural disaster it may be better to have a SSD as opposed to a HDD.
+Depending on the environment in general it may be better to have one or the other even though server rooms are climate controlled.
+Depending on the application SSD’s are known for only being able to be written over so many times.
+If you were looking to transfer data to a remote site SSD would transfer data faster.
+HDD’s are more susceptible to damage to shock and being moved around due to moving parts.
+
+Bookmark and Review
+
+How to Erase a Hard Drive Using DBAN
+
+References
+[Erase Hard Drive](https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148) 
+[Data Recovery](https://www.n-able.com/blog/ssd-data-recovery-best-practices) 
+[Chat GPT](https://chat.openai.com/c/e7817477-48cf-4b9a-8ac7-7dc17247a571) 
+## Things I want to know more about
+What does Solarwinds know about data recovery? I thought they had the worst hack in US history, but chat GPT said it was the OPM (Office of Personnel Management) hack.
+
+
 
 # Ops 301: Networking and Systems Administration
 
