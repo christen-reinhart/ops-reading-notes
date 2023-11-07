@@ -1010,6 +1010,21 @@ Reference
 
 [Chat GPT](https://chat.openai.com/share/789a577e-7138-4619-943c-c69a2f21cd14) 
 
+## Learning Journal: Class 11
+
+## Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+You should probably only spend about 10-15 minutes on this assignment, although if you would find it helpful to invest more time, you are welcome to do so.
+
+## Reflection
+
+For this journal entry, no specific prompt other than to start off with “Today I learned…” or “Recently I learned…” and go from there.
+
+Today I learned endpoint configuration and how to use powershell to configure different processes using the CLI. I also learned data recovery and how to properly delete data from a HDD and the importance of doing it properly. We also worked as a group again with a different group this time. This was a learning experience within itself since it was different individuals with different ideas so I got a different perspective. I went over my 60 second pitch which I have heard of during my transition out of the military. It was called an elevator pitch then though.
+
+
 
 # Ops 301: Networking and Systems Administration
 
