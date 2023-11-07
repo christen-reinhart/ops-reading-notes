@@ -969,6 +969,46 @@ References
 ## Things I want to know more about
 What does Solarwinds know about data recovery? I thought they had the worst hack in US history, but chat GPT said it was the OPM (Office of Personnel Management) hack.
 
+## Career: Class 11: Give Your 60 Second Professional Pitch
+
+
+## Give Your 60 Second Pitch
+
+Being able to introduce yourself in a professional manner speaks volumes about you. Use these resources to learn how to create your personal-professional pitch. Aim for your pitch to be 30 to 60 seconds.
+
+## Effective public speaking
+
+How to create a professional pitch: Guide I and Guide II
+
+Be prepared to utilize your personal pitch on project demo day when introducing yourself. Use these questions to guide you as you write.
+
+What were you doing before you decided to change careers?
+
+Why did you decide to learn Software Development?
+
+Why did you pick this specific skill?
+
+Ideal environment you’d use this skill?
+
+Previous experiences that give a boost to your new career in tech?
+
+## Assignment
+
+Submit a written version of your 60 second pitch, using the suggested guidelines.
+
+I'm Christen Reinhart, and my professional journey has revolved around network management, system administration, and satellite communications for over a decade. However, my passion for technology and its crucial role in safeguarding digital environments prompted me to shift my focus to the realm of cybersecurity.
+
+Prior to embracing this change, my responsibilities involved ensuring the reliability, security, and performance of IT infrastructure in high-pressure, dynamic settings. I developed a profound understanding of IT communications principles, practices, and troubleshooting methods, which I'm eager to apply in the cybersecurity field.
+
+I made the choice to specialize in cybersecurity because I'm deeply committed to protecting digital assets and data from evolving threats. Through rigorous training and certifications, I've acquired skills in threat detection, penetration testing, and incident response, equipping me to defend against cyber adversaries.
+
+I'm seeking an environment where I can employ my cybersecurity expertise to address complex security challenges and fortify organizations against cyber threats. My background in IT, complemented by my cybersecurity skills, positions me to contribute effectively to securing digital landscapes.
+
+In summary, my transition to the cybersecurity field is propelled by a fervent dedication to preserving the integrity of digital assets. With a strong foundation in IT and newfound expertise in cybersecurity, I'm ready to play a vital role in enhancing digital security and ensuring a safer cyber landscape."
+
+Reference 
+
+[Chat GPT](https://chat.openai.com/share/789a577e-7138-4619-943c-c69a2f21cd14) 
 
 
 # Ops 301: Networking and Systems Administration
