@@ -1024,6 +1024,52 @@ For this journal entry, no specific prompt other than to start off with “Today
 
 Today I learned endpoint configuration and how to use powershell to configure different processes using the CLI. I also learned data recovery and how to properly delete data from a HDD and the importance of doing it properly. We also worked as a group again with a different group this time. This was a learning experience within itself since it was different individuals with different ideas so I got a different perspective. I went over my 60 second pitch which I have heard of during my transition out of the military. It was called an elevator pitch then though.
 
+## Read: Class 12
+
+
+## Virtualizing a Router with pfSense
+
+Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+## Reading
+
+## Introduction to pfSense
+
+List some popular uses for pfSense.
+
+pfSense can set up a captive portal for wireless hotspots, which requires user authentication or acceptance of terms of service before granting access.
+pfSense offers robust firewall capabilities to protect your network from unauthorized access and threats.
+You can use it as a DHCP server to automatically assign IP addresses to devices on your network and as a DNS server to resolve domain names to IP addresses.
+
+What are the hardware requirements for setting up a pfSense router?
+
+pfSense can be installed on a wide range of hardware, from old PCs to embedded devices, giving users the flexibility to build customized network appliances to meet specific requirements.
+
+Where can you find support options for pfSense users?
+
+Users have access to a helpful community through forums, mailing lists, and IRC for free support. Additionally, pfSense has commercial support available for enterprise users who require professional assistance and services.
+
+How can you access the automatic configuration backup utility in pfSense?
+
+In the "Config History" tab, you can set up the automatic configuration backup settings. You can specify how often you want the configuration to be backed up, where the backups will be stored, and how many backups to retain. 
+
+Reflect on the importance of cultural awareness in the field of network security and administration. How might cultural differences influence decision-making and problem-solving when dealing with virtual routers and firewalls, like pfSense, in a global context?
+
+Since it is very flexible and cheaper, pfsense could be open to a wide variety of applications, individuals and markets.
+
+## Reference
+
+[PF Sense](https://turbofuture.com/computers/Introduction-to-pfSense-An-Open-Source-Firewall-and-Router-Platform) 
+
+[Chat GPT](https://chat.openai.com/share/e5db4e2a-4f61-40a7-bff0-aa99dff41a51) 
+
+## Things I would like to know more about
+
+How effective this product actually is on a live network?
+
+What are the best applications, most likely a small business of some sort or individuals on a limited budget.
 
 
 # Ops 301: Networking and Systems Administration
