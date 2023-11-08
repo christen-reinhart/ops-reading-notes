@@ -1091,6 +1091,22 @@ TA’s will be grading this assignment by comparing your first submitted resume 
 
 It was recommended to remove my satellite communications and 82nd Airborne culinary experience. This way it would be more focused on Cybersecurity and I have achieved 2 more Coursera cybersecurity certificates. I will be working with my mentor from ACP through the VA as well to remove some of the military terminology.
 
+## Learning Journal 12
+
+## Today I Learned
+
+One of the most effective tools in adult learning is reflection. By writing coherent summaries of lessons learned, we cement that learning and deepen our understanding of a subject. It also helps us to measure our progress.
+
+You should probably only spend about 10-15 minutes on this assignment, although if you would find it helpful to invest more time, you are welcome to do so.
+
+## Reflection
+
+Write a brief reflection on your learning today, or use the prompt below to get started.
+
+There’s an old saying: “Experience is what you get when you don't get what you wanted.” What strategies do you use for learning from disappointments (both big and small) so that the next experience becomes productive and positive?
+
+I actually learn best from my mistakes because learning the hard way drives things home for me. I learn most effectively through hands-on experience and associative learning. I tend not to forget when I struggle through a problem or an issue, as it often involves a lot of repetition and starting over from scratch. I have a tendency to lose focus during presentations since they are generally not very engaging. That being said, when I learn something through experiencing disappointment or being let down, I usually want to avoid feeling that way again.
+
 
 # Ops 301: Networking and Systems Administration
 
