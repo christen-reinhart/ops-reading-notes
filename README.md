@@ -1107,6 +1107,37 @@ There’s an old saying: “Experience is what you get when you don't get what y
 
 I actually learn best from my mistakes because learning the hard way drives things home for me. I learn most effectively through hands-on experience and associative learning. I tend not to forget when I struggle through a problem or an issue, as it often involves a lot of repetition and starting over from scratch. I have a tendency to lose focus during presentations since they are generally not very engaging. That being said, when I learn something through experiencing disappointment or being let down, I usually want to avoid feeling that way again.
 
+## Read: Class 13
+
+## Cloud Virtualization with AWS
+Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+## Reading
+ Virtualization in the Amazon EC2 Cloud
+How has virtualization evolved beyond desktops and servers?
+Virtualization is a key enabler in creating hybrid and multi-cloud solutions, allowing organizations to seamlessly move workloads between different cloud providers or on-premises environments.
+
+In the context of the Amazon IaaS Cloud Service Model, what does EC2 stand for?
+In the context of Amazon Web Services (AWS), which is an Infrastructure as a Service (IaaS) cloud service provider, "EC2" stands for "Elastic Compute Cloud." The term "elastic" in EC2 emphasizes its ability to easily scale up or down based on the user's requirements, allowing them to pay only for the compute capacity they use.
+
+What types of storage does EC2 use, and how is EC2 web traffic managed?
+Auto Scaling allows you to automatically adjust the number of running EC2 instances based on the demand for your application. ELB is a service that automatically distributes incoming application traffic across multiple EC2 instances. EFS provides scalable and shared file storage that can be attached to multiple EC2 instances simultaneously.
+What are the benefits of service-oriented architecture for customers of EC2 virtualized services? Scalability SOA allows customers to adjust their services independently.
+Analyze how cloud virtualization can promote equitable access to technology resources across diverse populations. How can this technology bridge cultural gaps and empower underserved communities? 
+Cloud providers are increasingly committed to sustainability. Cloud services can aid in disaster recovery and resilience planning. Cloud computing can create economic opportunities for underserved communities by enabling them to offer digital services, access e-commerce platforms, and participate in the digital economy.
+## Video
+EC2 Video Only
+## Bookmark and Review
+[Cloud Security for Dummies]((https://www.dummies.com/wp-content/uploads/Privileged-Access-Cloud-Security-For-Dummies-Thycotic-Special-Edition.pdf)) 
+Be sure to read this article to be prepared for our in-class discussion in Class 14:
+Reference
+[AWS Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1990/aws-cloud-practitioner-essentials-core-services)
+[Google Learned From Its Quest](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) 
+[Virtualization in the Amazon EC2 Cloud](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1990/aws-cloud-practitioner-essentials-core-services)
+[Chat GPT](https://chat.openai.com/share/f052cd99-1c5a-4b48-a879-261c354fa2ec) 
+## Things I want to know more about
+Cloud services and cybersecurity, I watched a Sans Inst.  webcast and the different dynamics that go into protecting services in the cloud is interesting.
+
 
 # Ops 301: Networking and Systems Administration
 
