@@ -1071,6 +1071,26 @@ How effective this product actually is on a live network?
 
 What are the best applications, most likely a small business of some sort or individuals on a limited budget.
 
+## Accountability Partners Review
+
+## Refining your Resume
+
+Once your resume matches our guideline outlined here, have your accountability partners review your resume and give you feedback on how well it matches the guideline. Make a copy of your resume and send it to your accountability partner for suggested edits. Integrate those suggested changes onto your original resume and then DELETE the copy.
+
+A note on feedback: Whenever possible, provide a balance of positive and negative feedback. If you consistently give only positive or negative feedback, people will distrust the feedback and it will become useless. Remember to highlight what you liked on their resumes while also sharing ways for them to improve.
+
+Also, remember to make ALL changes in the original resume document emailed to you when you enrolled, to be sure you are updating the official file that is in our database—this file is what we will be sharing with partner companies once it is approved by your Instructor in 401.
+
+## Assignment
+
+When the suggested edits are implemented, upload here a PDF of the latest version.
+
+Allocate 20 minutes to this assignment
+
+TA’s will be grading this assignment by comparing your first submitted resume with the new submission, noting effort made towards improvement, and ensuring it matches the provided guideline.
+
+It was recommended to remove my satellite communications and 82nd Airborne culinary experience. This way it would be more focused on Cybersecurity and I have achieved 2 more Coursera cybersecurity certificates. I will be working with my mentor from ACP through the VA as well to remove some of the military terminology.
+
 
 # Ops 301: Networking and Systems Administration
 
