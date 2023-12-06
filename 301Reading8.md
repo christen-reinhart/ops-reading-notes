@@ -98,3 +98,8 @@ Reference
 
 [Google Bard](https://bard.google.com/chat/d47ff40eb0a0ac77) 
 
+## Things I want to know more about
+
+Kerberos is what I would to know more about from what I saw in the videos it seemed like the most complicated Authentication with the ticket granting ticket(TGT)
+
+
