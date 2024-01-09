@@ -33,3 +33,7 @@ Depending on the different services you use provided by Amazon there are varying
 [Cloud Controls Matrix](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
 
 [CSA Security Guidance ](https://cloudsecurityalliance.org/research/guidance/)
+
+## Things I want to know more about
+
+How to work with the various services that Amazon provides via the cloud at the different levels.
