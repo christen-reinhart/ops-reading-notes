@@ -8,7 +8,7 @@ Below you will find reading materials and additional resources that support toda
 
 - Security and Risk Management
 
-Consider a bank ATM that allows users to access bank account balances. What measures can the ATM incorporate to cover the principles of the CIA triad?
+## Consider a bank ATM that allows users to access bank account balances. What measures can the ATM incorporate to cover the principles of the CIA triad?
 
 1. Confidentiality:
 - Encrypted Communication: Protects sensitive data in transit between the ATM and bank servers.
@@ -27,7 +27,7 @@ Tamper Detection: Alerts to physical or software tampering attempts.
 Network Resilience: Uses reliable networks and failover mechanisms to ensure connectivity.
 
 
-Name three best practices that support the CIA triad.
+## Name three best practices that support the CIA triad.
 
 1. Layered Defense: Implement multiple security measures across different layers to create a comprehensive shield. This means using strong encryption alongside access controls, regular backups and redundancy for availability, and tamper detection mechanisms alongside data integrity verification. By having overlapping layers, even if one layer is compromised, others can still protect your data.
 2. Least Privilege: Grant users the minimum level of access needed to perform their tasks. This minimizes the potential damage if unauthorized access occurs and reduces the amount of sensitive data exposed. Implement granular access controls, multi-factor authentication, and limit administrator privileges to further strengthen this principle.
