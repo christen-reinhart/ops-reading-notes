@@ -8,7 +8,7 @@ You should probably only spend about 10-15 minutes on this assignment, although 
 
 ## Reflection
 
-##Write a brief reflection on your learning today, or use the prompt below to get started.
+## Write a brief reflection on your learning today, or use the prompt below to get started.
 
 “For adult learners, their experience becomes the main resource of both their learning and the personal identity they have developed, as the richer and more diverse their experience, the more the diversity they can bring to their own learning.”
 
