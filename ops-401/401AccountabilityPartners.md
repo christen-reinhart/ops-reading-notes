@@ -13,6 +13,8 @@ Find 2 new accountability partners for 401, for all your career coaching deliver
 
 TA’s will be grading you on your submission of two names.
 
--Renona Gay
+- Renona Gay
 
--Israel Quirola Salas
+- Israel Quirola Salas
+
+- Kevin Hoang
