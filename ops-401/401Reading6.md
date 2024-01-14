@@ -24,13 +24,13 @@ Currently considered secure and widely used for cryptographic applications.
 
 2. You have been made responsible for the company’s file server. How would you preserve the three elements of the CIA triad?
 
-1.Confidentiality:
+1. Confidentiality:
 - Access Controls: Implement strong access controls to ensure that only authorized personnel have access to sensitive data. Use role-based access control (RBAC) and regularly review and update permissions.
 - Encryption: Encrypt sensitive data to protect it from unauthorized access. Utilize encryption protocols for both data in transit and data at rest. This helps ensure that even if someone gains access to the storage, the data remains confidential.
-2.Integrity:
+2. Integrity:
 - Hash Functions: Implement hash functions like SHA-256 to generate checksums for files. Regularly check the integrity of files by comparing their current hash values with the originally recorded hash values. Any discrepancies indicate potential tampering or corruption.
 - Access Controls and Logging: Restrict write permissions to authorized users and maintain detailed access logs. Regularly review logs for any suspicious activities that could indicate unauthorized modifications to files.
-3.Availability:
+3. Availability:
 - Redundancy: Implement redundancy measures such as RAID (Redundant Array of Independent Disks) to ensure data availability in case of hardware failures. Regularly back up critical data, and store backups in different physical locations to mitigate risks.
 - Monitoring and Incident Response: Implement monitoring tools to detect potential issues affecting server availability. Have an incident response plan in place to quickly address and mitigate any disruptions to server availability, whether they are due to technical failures or security incidents.
 ## Additionally:
