@@ -56,9 +56,10 @@ If you forget what's inside the magic box, you can use the decoding key to revea
 
 [What are MD5\ SHA-1 etc](https://www.howtogeek.com/67241/htg-explains-what-are-md5-sha-1-hashes-and-how-do-i-check-them/) 
 
+
+[Chat GPT](https://chat.openai.com/share/1fa7c34c-709e-45f9-834e-abd8583d9951) 
+
 ## Things I want to know more about
 
 Using the command line interface and encrypting files, documents, etc.
-
-[Chat GPT](https://chat.openai.com/share/1fa7c34c-709e-45f9-834e-abd8583d9951) 
 
