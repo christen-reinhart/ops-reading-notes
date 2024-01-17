@@ -15,3 +15,9 @@ Data at rest is while it is in storage like on your phone locally. Data in trans
 Explain the role of data encryption with regards to the CIA triad.
 
 Encryption is for data Confidentiality to make sure it is not compromised and the raw data is not intercepted.
+
+[Reading](https://www.digitalguardian.com/blog/data-protection-data-in-transit-vs-data-at-rest)
+
+## Things I would like to know more about
+
+The encryption process and security of data.
