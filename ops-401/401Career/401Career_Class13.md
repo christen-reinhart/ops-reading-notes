@@ -15,3 +15,6 @@
 -Submit the time, date, and name of your 1:1 informational and event that you scheduled.
 
 -I will be meeting with David Kallus, my mentor from the ACP program 30JAN2024 @ 1100 EST. We will be discussing jobs, the industry, how the class is going and certifications. We will also be discussing whether I will be going back to school to seek my degree.
+
+-I will also be attending the Sunshine Cyber Conference in Tampa, FL
+27-28MAR2024
