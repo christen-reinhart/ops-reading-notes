@@ -6,6 +6,8 @@ Complete the following:
 
 -If it’s your first time doing this assignment, make a copy of this Google Spreadsheet template and save it to your personal drive. (File » Make a copy).
 
+[Google_Link](https://docs.google.com/document/d/1HNYNknZOEuogE29UVb5UE7nOJLKuItzOEqKgsNJ8ikc/edit?usp=sharing) 
+
 -If you already have this template, build off of your existing data.
 
 -Go onto any job board site (Example: LinkedIn, Indeed, etc…) and find at least 3 different job postings from 3 different companies and fill out the spreadsheet for each job posting you find. Look for job postings with job titles that you are targeting. Use this opportunity to learn more about the companies that your community has to offer and potential positions are available.
