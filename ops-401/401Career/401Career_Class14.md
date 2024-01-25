@@ -17,11 +17,11 @@ Complete the following:
 
 ## Cybersecurity Analyst (JNY)
 
-Peraton 
-https://careers-peraton.icims.com/jobs/134593/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&iis=HireClix&iisn=Indeed&mobile=false&width=847&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240 
-Requisition ID 2023-134593
-Position Category Cyber Security
-Sector Defense Mission & Health Solutions
+-Peraton 
+-https://careers-peraton.icims.com/jobs/134593/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&iis=HireClix&iisn=Indeed&mobile=false&width=847&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240 
+-Requisition ID 2023-134593
+-Position Category Cyber Security
+-Sector Defense Mission & Health Solutions
 
 -Peraton requires a Cyber Security Analyst (JRNY) to support the Special Operation Command Information Technology Enterprise Contract (SITEC) – 3. Positions are located at the SOCOM Headquarters at MacDill, AFB FL, and at the TSOC and Component locations in the United States and abroad.
  
