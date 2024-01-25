@@ -24,7 +24,7 @@ Sector Defense Mission & Health Solutions
 -Peraton requires a Cyber Security Analyst (JRNY) to support the Special Operation Command Information Technology Enterprise Contract (SITEC) – 3. Positions are located at the SOCOM Headquarters at MacDill, AFB FL, and at the TSOC and Component locations in the United States and abroad.
  
 -The purpose of the Special Operations Forces Information Technology Enterprise Contract (SITEC) 3 Enterprise Operations and Maintenance (EOM) Task Order (TO) is to provide USSOCOM, its Component Commands, its Theater Special Operations Commands (TSOCs), and its deployed forces with Operations and Maintenance (O&M) services to maintain Network
-Operations (NetOps); maintain systems and network infrastructure; provide end user and  common device support; provide configuration, change, license, and asset management; conduct training, and perform Install, Move, Add, Change (IMACs) services. The responsibilities and tasks associated with each requirement play a pivotal role to USSOCOM, the CIO/J6 organization, and ultimately the end-user who operate around the globe 24x7x365.
+-Operations (NetOps); maintain systems and network infrastructure; provide end user and  common device support; provide configuration, change, license, and asset management; conduct training, and perform Install, Move, Add, Change (IMACs) services. The responsibilities and tasks associated with each requirement play a pivotal role to USSOCOM, the CIO/J6 organization, and ultimately the end-user who operate around the globe 24x7x365.
 
 Required qualifications:
 -BS 5-7 Years, MS 3-5, PhD 0-2.  Significant relevant experience will be considered in lieu of formal education.
@@ -61,7 +61,9 @@ https://careers-peraton.icims.com/jobs/141626/sitec---cloud-security-engineer/jo
 -Senior Computer Network Defense Analysts to support the Special Operation Command Information Technology Enterprise Contract (SITEC) – III.  Positions are located at the SOCOM Headquarters at MacDill, AFB FL, and at the TSOC and Component locations in the United States and abroad. 
 
 -The Senior Computer Network Defense Analyst must possess a thorough understanding of all aspects of computer and network security, including such areas as firewall administration, encryption technologies and network protocols. Senior Computer Network Defense Analysts need strong oral and written communication, analytical, and problem-solving skills, as well as excellent judgment and self-motivation. The Sr Analyst must have the ability to multitask and work well under pressure. The Senior Analysts must be able to investigate alerts, anomalies, error, intrusions, malware, etc. to identify the extent of a security incident and be able to help isolate the responsible agents. It is important that the Senior Computer Network Defense Analyst keep abreast of industry security trends and developments, as well as applicable Government regulations.
-Required qualifications
+
+-Required qualifications
+
 -A DoD TS/SCI security clearance is required. 
 -BS 10-12, MS 8-10, Phd 5-7, Significant relevant experience will be considered in lieu of formal education.
 -Eight years of intensive and progressive experience in the candidate’s field of study and specialization.
@@ -94,6 +96,7 @@ POSITION SUMMARY
 https://recruiting.paylocity.com/recruiting/jobs/Details/2195003/Aero-Simulation-Inc-CBA/INFORMATION-SYSTEMS-SECURITY-MANAGER-ISSM---On-Site-Not-Remote?source=Indeed_Feed
 
 REQUIRED SKILLS AND EXPERIENCE
+
 -Direct experience working on information systems authorized by the Defense Counterintelligence and Security Agency (DCSA).
 -Direct experience implementing and managing the requirements of the National Industrial Security Program Operating Manual (NISPOM) and DCSA Assessment and Authorization Process Manual (DAAPM).
 -Experience creating Risk Management Framework (RMF) assessment packages and associated work products.
