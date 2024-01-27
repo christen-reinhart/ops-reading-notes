@@ -7,7 +7,7 @@ Professional and Personal Development
 
 ## Gerald Auger's Cyber Morning Show:
 
-- Gerald Auger's cybersecurity podcast stands out as a unique and engaging platform, combining entertainment with valuable insights into the dynamic world of cybersecurity. His approach of delivering daily updates on patches, attacks, and vulnerabilities gives it a distinct edge, positioning itself as a must-listen for cybersecurity enthusiasts. The podcast not only informs the audience about the latest happenings in the cyber realm but also entertains, making it akin to a morning show for the cybersecurity community.
+- Gerald Auger's cybersecurity podcastis a unique and engaging platform, combining entertainment with valuable insights into the dynamic world of cybersecurity. His approach of delivering daily updates on patches, attacks, and vulnerabilities gives it a distinct edge, positioning itself as a must-listen for cybersecurity enthusiasts. The podcast not only informs the audience about the latest happenings in the cyber realm but also entertains, making it akin to a morning show for the cybersecurity community.
 
 - One notable aspect of the podcast is Gerald Auger's ability to delve into current events. For instance, discussing the recent information/PII leak from Thailand on the Darkweb showcases the podcast's commitment to staying on top of real-time cyber threats. Auger's connection on LinkedIn adds a personal touch, creating a sense of community engagement within the cybersecurity space.
 
@@ -17,9 +17,7 @@ Professional and Personal Development
 
 - "The Other Side of the Firewall," hosted by former JCSE members at MacDill AFB, offers a unique perspective that stems from hands-on experience in the military cybersecurity domain. While the podcast may be smaller in scale, its niche focus and the background of its hosts provide a valuable insight into the challenges and strategies faced by military cybersecurity professionals.
 
-- The limited time you've had to listen to this podcast indicates that it might require a more dedicated commitment due to its specialized nature. However, the podcast's affiliation with military service at JCSE adds authenticity and credibility to its discussions, making it particularly appealing to those with a background or interest in military cybersecurity operations.
-
-- Exploring this podcast further could provide a deeper understanding of the specific issues faced by military cybersecurity personnel, offering a unique and potentially niche perspective compared to more general cybersecurity podcasts. As you continue to engage with "The Other Side of the Firewall," it may unveil more insights and anecdotes from the hosts' experiences, contributing to a richer and more specialized knowledge base in the realm of cybersecurity.
+- He frequently has hosts on with CISSP "Ask a CISSP" and goes over thier experience getting CISSP or utilizes there experience to go over relavent questions in the industry. This is very helpful since you are able to see how they attained the certification and apply it in the field.
 
 - In summary, both podcasts bring valuable perspectives to the table. Gerald Auger's podcast excels in its dynamic and entertaining approach, delivering daily cybersecurity updates akin to a morning show, while "The Other Side of the Firewall" offers a more specialized focus on military cybersecurity, leveraging the firsthand experiences of its hosts for a unique listening experience.
 
