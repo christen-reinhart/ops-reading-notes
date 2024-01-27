@@ -19,7 +19,7 @@ C: Maybe you are willing to take less to work in a good company you like with gr
 ## Targeted job search?
 A: Learn more about the company and how their values align with yours.
 
-B: You can just apply to a bunch of companies and use the shotgun blast approach.
+B: You can just apply to a bunch of companies and use the shotgun blast approach and this can work, but may not be as affective.
 
 C: Knowing someone or meeting someone through networking can make a huge difference and up your chances tremendously.
 
