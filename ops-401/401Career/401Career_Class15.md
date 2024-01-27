@@ -31,3 +31,5 @@ B: Post on Linkedin and make a brand for yourself be professional, but this is l
 C: Become part of cyber social groups and attend webinars cyber is trendy due to pop culture and movies.
 
 - TA’s will be grading you on your attendance of the workshop as well as submission of three tips in each of the categories.
+
+[Google_Doc](https://docs.google.com/spreadsheets/d/1-7-cnBGMX49M5i-uR-CpdcrfGswj0R1N/edit?usp=sharing&ouid=113123986971004980907&rtpof=true&sd=true)
