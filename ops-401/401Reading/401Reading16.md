@@ -11,7 +11,7 @@ Below you will find reading materials and additional resources that support toda
 
 - http://169.254.169.254/iam/security-credentials
 - http://169.254.169.254/iam/security-credentials/*****-WAF-Role
-- CLI commands $ aws	s3 ls / $ aws s3 sync s3://somebucket
+- CLI commands: $ aws	s3 ls / $ aws s3 sync s3://somebucket
 
 2. What misconfiguration of AWS components allowed the attacker to access sensitive data?
 
