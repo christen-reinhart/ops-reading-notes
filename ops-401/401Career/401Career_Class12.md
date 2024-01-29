@@ -23,7 +23,7 @@ Professional and Personal Development
 
 ## Dan Desko
 
-Dan had a really interensting Review of Midnight Blizzard Attack. The Russian State Sponsered actor NOBELIUM, targeted Microsoft through spohisticated methods. They are known for targeting governments, NGOs, and IT service providers. They do this through diverse attacks using various methods for initial access. They used a password spray attack to compromise non-production test account at Microsoft, which lacked MFA. They then created and misused OAuth apps to maintain access in Microsofts environment and gather intel. The attack also used sophisticated methods like residential proxy networks to mask the source of the attack, making detection using traditional methods ineffective. Microsoft was able to detect these activities by analyzing exchange web services and audit logs combined with knowledge of the threat actors TTPs.
+Dan had a really interensting review of Midnight Blizzard Attack. The Russian State Sponsered actor NOBELIUM, targeted Microsoft through spohisticated methods. They are known for targeting governments, NGOs, and IT service providers. They do this through diverse attacks using various methods for initial access. They used a password spray attack to compromise non-production test account at Microsoft, which lacked MFA. They then created and misused OAuth apps to maintain access in Microsofts environment and gather intel. The attack also used sophisticated methods like residential proxy networks to mask the source of the attack, making detection using traditional methods ineffective. Microsoft was able to detect these activities by analyzing exchange web services and audit logs combined with knowledge of the threat actors TTPs.
 
 
 ## References
