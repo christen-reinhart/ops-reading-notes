@@ -17,11 +17,11 @@
 
 3. What are the three tiers that comprise the three-tier architecture model?
 
-1. Presentation Tier (User Interface Tier):
+- Presentation Tier (User Interface Tier):
 This is the top layer that interacts directly with the end user.
-2. Application Tier (Logic or Business Logic Tier):
+- Application Tier (Logic or Business Logic Tier):
 The middle layer, also known as the logic tier, is responsible for processing
-3. Data Tier (Data Storage or Database Tier):
+- Data Tier (Data Storage or Database Tier):
 The bottom layer deals with data storage and retrieval.
 
 4. Describe the differences between a VPC and a VPN to someone you know from your previous job.
