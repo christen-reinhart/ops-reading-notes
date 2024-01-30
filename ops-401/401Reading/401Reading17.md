@@ -30,7 +30,8 @@ The bottom layer deals with data storage and retrieval.
 
 ## Reference
 
-https://www.ibm.com/cloud/learn/vpc
+[IBM](https://www.ibm.com/cloud/learn/vpc)
+[Chat GPT](https://chat.openai.com/share/19056ac5-14cf-4131-8130-de1c02e84ac9)
 
 ## Things I want to know more about
 
