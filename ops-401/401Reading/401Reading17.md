@@ -24,8 +24,6 @@ The middle layer, also known as the logic tier, is responsible for processing
 3. Data Tier (Data Storage or Database Tier):
 The bottom layer deals with data storage and retrieval.
 
-
-
 4. Describe the differences between a VPC and a VPN to someone you know from your previous job.
 
 - A VPN is an encrypted tunnel/ connection and a VPC is a server you can access from the internet.
