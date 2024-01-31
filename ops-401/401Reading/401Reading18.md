@@ -10,7 +10,7 @@
 
 - It is a network monitoring tool for cyber security that monitors logs in real-time and aggregates them for additional insight and troubleshooting.
 
-2. What do CloudWatch Logs help us achieve?
+2. What does CloudWatch Logs help us achieve?
 
 - Cloud Watch Logs is a service provided by AWS that enables you to monitor, store, and access log files from various AWS resources, applications, and services. This allows you to centralize logs from different AWS services and applications into a single, easily accessible location.  It provides powerful search and filtering capabilities. You can set retention policies for log data, so you can retain logs for a specific time period. They can be used to create metrics and alarms based on log data. 
 
