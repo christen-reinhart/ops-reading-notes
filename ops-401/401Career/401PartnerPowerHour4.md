@@ -21,9 +21,9 @@ Module	Topic	Speaker
 -Contribute to the discussion:
 
 1. Share one or two ways the speaker’s information will change your approach to your career transition.
--Don't type in those 7 characters into linux.
+- Don't type in those 7 characters into linux.
 2. List a few key take-aways from this presentation.
--I believe this was more of a ops-102 review but it was a good refresher with a good perspective on core fundamentals. I like the way he went over code and how it needs to be flexible and simple to run.
+- I believe this was more of a ops-102 review but it was a good refresher with a good perspective on core fundamentals. I like the way he went over code and how it needs to be flexible and simple to run.
 3. Share a screenshot of your LinkedIn connection request, including a nicely worded note, sent to the speaker or someone else at their company.
 
 - Included in Canvas
