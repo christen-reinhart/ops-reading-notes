@@ -18,7 +18,7 @@
 
 ## Assignment
 
--Contribute to the discussion:
+- Contribute to the discussion:
 
 1. Share one or two ways the speaker’s information will change your approach to your career transition.
 - Don't type in those 7 characters into linux.
