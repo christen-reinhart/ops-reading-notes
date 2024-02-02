@@ -30,5 +30,5 @@ Module	Topic	Speaker
 
 ## Reference 
 
-https://youtu.be/4NQFsecbd3E
+[Ethan_Denny](https://youtu.be/4NQFsecbd3E)
 
