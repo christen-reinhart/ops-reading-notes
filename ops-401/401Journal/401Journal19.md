@@ -8,6 +8,6 @@
 
 ## Reflection
 
-- or this journal entry, there is no specific prompt other than to start off with “Today I learned…” or “Recently I learned…” and go from there.
+- For this journal entry, there is no specific prompt other than to start off with “Today I learned…” or “Recently I learned…” and go from there.
 
 - Today we went over the interview process and how to properly present yourself by observing another classmate. We also went over AWS Lambda and Guard Duty. Lambda gives us the ability to create serverless code to apply customized automation. Guard duty gives us the ability to protect against threats like malware and trojans while giving feedback from those events for in depth analysis.
