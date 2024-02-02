@@ -10,11 +10,11 @@
 
 ## Presentations
 
-Module	Topic	Speaker
-01	Breaking into Cyber	Stephen Semmelroth
-02	Zero Trust Cybersecurity. Trust Nothing, Protect Everything	Alex Gounares
-03	DevOps 101: CI/CD	Kat Cosgrove
-04	Scripting and Functions	Ethan Denny
+- Module	Topic	Speaker
+1. Breaking into Cyber	Stephen Semmelroth
+2. Zero Trust Cybersecurity. Trust Nothing, Protect Everything	Alex Gounares
+3. DevOps 101: CI/CD	Kat Cosgrove
+4. Scripting and Functions	Ethan Denny
 
 ## Assignment
 
