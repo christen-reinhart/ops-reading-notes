@@ -42,7 +42,7 @@
 
 ## Describe changes you would make to your personal or team process that you can incorporate into your next team effort.
 
-- I would take more time over the weekend prior to project week to figure out the process and identify possible issues that could pop up during the week.
+- I would take more time over the weekend prior to project week to figure out the process and identify possible issues that could pop up during the week. We took the weekend off this is the second time a team I worked on decided to do this and I personally regretted it.
 
 - If there is anything else you wish us to know when assessing your contribution to the group project, please include it. Only members of the Instructional team will read these submissions, so you may be candid.
 
