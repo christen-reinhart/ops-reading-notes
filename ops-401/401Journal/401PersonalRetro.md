@@ -32,7 +32,7 @@
 
 ## Describe at least one difficulty you faced during project week and how you dealt with it. This difficulty could be technical in nature, or interpersonal.
 
-- It was particularly hard getting the agents installed on the Windows and Linux EC2 instances. After getting them installed I had to set up the role and permissions then assign it to the instances. Once this was finished and running in the background I had to figure out a way to demonstrate the service for the presentation. It worked out in the end using the RDP and powershell showing the service was running. Then utilizing the addition data going to cloud watch I was able to create a widget on the dashboard and assign a good visual representation during the demonstration.
+- It was particularly hard getting the agents installed on the Windows and Linux EC2 instances. After getting them installed I had to set up the role and permissions then assign it to the instances. Once this was finished and running in the background I had to figure out a way to demonstrate the service for the presentation. It worked out in the end using the RDP and powershell showing the service was running. Then utilizing the additional data going to cloud watch I was able to create a widget on the dashboard and assign a good visual representation during the demonstration.
 
 ## Describe at least one surprising success or failure you experienced during the week.
 
