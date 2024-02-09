@@ -53,6 +53,7 @@
 [Cloud Trail/Watch](https://docs.google.com/document/d/18v5aMFwFkLlJpeuUNtAfnambzmjBH3wMsNQjJZqMQmM/edit?usp=sharing)
 
 [Event Rule](https://docs.google.com/document/d/1H0NHMh2R1xYWWSgcHBzMR3hxgyuLYobxc-OhzvcTpBs/edit?usp=sharing) 
+
 [Windows/ Linux Agents](https://docs.google.com/document/d/1Bedri4p37Jh-gjQXAkg024nADnPlZk-iLH9UkK0IhDg/edit?usp=sharing) 
 
 [Chat GPT](https://chat.openai.com/share/547748fe-1193-4ca0-a5a4-cf68544abb75) 
