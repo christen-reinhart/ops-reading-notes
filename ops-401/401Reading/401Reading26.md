@@ -20,10 +20,7 @@
 
 ## What are two things you can do to mitigate attacks that leverage PowerShell?
 
-- Application whitelisting involves creating a list of approved applications that are allowed to run on a system. By setting more restrictive execution policies, you can limit the ability of attackers to execute malicious scripts
-
-- PowerShell has execution policies that determine what scripts can be run on a system. By setting more restrictive execution policies, you can limit the ability of attackers to execute malicious scripts.
-
+- Application whitelisting involves creating a list of approved applications that are allowed to run on a system. By setting more restrictive execution policies, you can limit the ability of attackers to execute malicious scripts. PowerShell has execution policies that determine what scripts can be run on a system. 
 
 ## Reference
 
