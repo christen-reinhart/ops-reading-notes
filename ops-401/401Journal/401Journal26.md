@@ -16,7 +16,7 @@
 
 3. What should I do differently next time?
 
-- Everything
+- I may wait to install the actual .iso files for the lab instead of using the existing server and additional recommended files.
 
 4. What still puzzles me, or what do I need to learn more about?
 
