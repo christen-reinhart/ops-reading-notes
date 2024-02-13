@@ -25,6 +25,7 @@
 ## Thinking about each of your assignments for the day, reflect on:
 
 - Is the assignment complete? If not, where exactly did you leave off, and what work remains?
-Do not get bogged down in written analysis; instead, focus on capturing the moment with an eye toward how your observations can guide you toward future productivity.
+
+- Do not get bogged down in written analysis; instead, focus on capturing the moment with an eye toward how your observations can guide you toward future productivity.
 
 - Today was rough. The lab did not go very well and I have to go back to address the code.
