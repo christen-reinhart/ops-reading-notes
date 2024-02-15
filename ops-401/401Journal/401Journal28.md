@@ -8,10 +8,12 @@
 - If you haven’t already, create your own collection of answers to common behavioral questions by making a copy of this template.
 - Write out responses to 3 new behavioral questions from this list of common questions. Remember to answer in the S.T.A.R. format, which is the expected standard.
 ## Additional Resources:
+
 - A Star Method Interview Guide
 - The S. T. A. R. Method - common mistakes
 - Allocate 30 minutes to this assignment
 - TA’s will be grading you on your submission of three new behavioral interview questions and answers that follow the S.T.A.R. format.
+
 ## Question 1: Tell me about a time when you had to handle a situation with a disgruntled employee.
 
 - Situation: In my previous role, one of my team members became increasingly disgruntled due to feeling undervalued and overworked, resulting in decreased productivity and team morale.
