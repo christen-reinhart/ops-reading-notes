@@ -15,7 +15,7 @@
 2. What are the four questions that can help us organize threat modeling?
 
 - What are we building?: This question focuses on understanding the system or environment being analyzed.
-- What can go wrong?: This question involves brainstorming and identifying potential threats and risks that could impact the system. 
+- What can go wrong?: This involves brainstorming and identifying potential threats and risks that could impact the system. 
 - What are we going to do about it?: Once potential threats and vulnerabilities have been identified, this question focuses on developing mitigation strategies and countermeasures to address them.
 - Did we do a good enough job?: This question involves evaluating the effectiveness of the threat modeling process and the adequacy of the mitigation strategies implemented.
 
