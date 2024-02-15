@@ -13,6 +13,7 @@
 - Allocate 30 minutes to this assignment
 - TA’s will be grading you on your submission of three new behavioral interview questions and answers that follow the S.T.A.R. format.
 ## Question 1: Tell me about a time when you had to handle a situation with a disgruntled employee.
+
 - Situation: In my previous role, one of my team members became increasingly disgruntled due to feeling undervalued and overworked, resulting in decreased productivity and team morale.
 - Task: As their supervisor, it was crucial for me to address the situation promptly and effectively to prevent further negative impact on the team's dynamics and performance.
 - Action: I scheduled a private meeting with the disgruntled employee to discuss their concerns in a supportive and non-confrontational manner. I actively listened to their grievances, empathized with their feelings, and acknowledged the validity of their concerns. I encouraged open communication and transparency, assuring them that their feedback was valued and would be taken seriously. Together, we identified specific issues contributing to their dissatisfaction and collaboratively brainstormed potential solutions.
@@ -20,6 +21,7 @@
 
 
 ## Question 2: Tell me about a time when you faced personal challenges outside of work and managed to maintain your work ethic and performance.
+
 - Situation: During a particularly difficult period in my personal life, I experienced a significant loss in my family, which deeply affected me emotionally and mentally.
 - Task: Despite grappling with grief and personal struggles, I recognized the importance of maintaining professionalism and high performance at work.
 - Action: I proactively sought support from friends, family, and professional counselors to cope with my personal challenges outside of work. I prioritized self-care activities such as exercise, meditation, and journaling to manage stress and maintain my mental well-being. Additionally, I communicated transparently with my supervisor and colleagues about my situation, setting realistic expectations regarding my workload and deadlines. I also developed strategies to compartmentalize my personal issues while at work, focusing on tasks at hand and staying present in meetings and collaborations.
@@ -27,6 +29,7 @@
 
 
 ## Question 3: Tell me about a time when you had to collaborate with a difficult team member.
+
 - Situation: In a cross-functional project, I was assigned to work closely with a team member who had a reputation for being uncooperative and resistant to feedback.
 - Task: Despite the challenges presented by this team member, it was essential to find a way to collaborate effectively to achieve our project goals.
 - Action: I initiated a one-on-one meeting with the team members to discuss our working relationship and understand their concerns. I actively listened to their perspective, validated their feelings, and emphasized our shared objectives. I also suggested establishing clear communication channels, setting mutual expectations, and finding common ground to build trust and rapport.
