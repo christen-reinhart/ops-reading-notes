@@ -1,6 +1,5 @@
 ## Readings 28: Log Clearing
 
-- Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
 
 - Review the Submission Instructions for guidance on completing and submitting this assignment.
 
