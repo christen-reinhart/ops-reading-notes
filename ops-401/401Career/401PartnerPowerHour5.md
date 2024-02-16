@@ -20,6 +20,6 @@
 
 3. Share a screenshot of your LinkedIn connection request, including a nicely worded note, sent to the speaker or someone else at their company.
 
-## References
+## Reference
 
 [The 7 C’s](https://www.youtube.com/watch?v=GqRDGi4ta5U) 
