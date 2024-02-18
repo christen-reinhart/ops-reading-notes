@@ -9,7 +9,8 @@
 ## Reading
 
 1. What is the main goal of Threat Hunting and how is it different from traditional threat monitoring?
--The main goal of threat hunting is to proactively identify and mitigate cyber threats that may have infiltrated an organization's network, aiming to detect and respond to threats before they cause significant damage. Threat hunting involves actively searching for indicators of compromise (IOCs) and signs of malicious activity that may not be detected by traditional security measures like antivirus software or firewalls.
+ 
+- The main goal of threat hunting is to proactively identify and mitigate cyber threats that may have infiltrated an organization's network, aiming to detect and respond to threats before they cause significant damage. Threat hunting involves actively searching for indicators of compromise (IOCs) and signs of malicious activity that may not be detected by traditional security measures like antivirus software or firewalls.
 
 2. What are the four types of YARA rules and what does each one of them use to identify and classify malicious software?
 
