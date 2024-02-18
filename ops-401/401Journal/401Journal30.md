@@ -30,4 +30,3 @@
 
 - I still have to resubmit lab 29 since I was a little confused on how to use the threat mitigation tool.
 
-- Capture your thoughts in the text field below. Note that your instructor and TAs will have access to your responses here in this assignment, but that this content is not publicly visible.
