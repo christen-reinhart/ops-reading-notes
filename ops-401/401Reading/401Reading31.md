@@ -14,13 +14,13 @@
 
 2. What are the four types of YARA rules and what does each one of them use to identify and classify malicious software?
 
-1. Pattern-based rules: These rules utilize strings of text, which can either be explicit values or regular expressions, to identify malware based on specific patterns found within its code.
+a) Pattern-based rules: These rules utilize strings of text, which can either be explicit values or regular expressions, to identify malware based on specific patterns found within its code.
 
-2. Metadata-driven rules: These rules depend on file metadata to detect malware. Metadata encompasses details such as file type, creation or modification timestamps, or other attributes.
+b) Metadata-driven rules: These rules depend on file metadata to detect malware. Metadata encompasses details such as file type, creation or modification timestamps, or other attributes.
 
-3. Hash-based rules: These rules leverage cryptographic hashes, unique representations of file contents, to identify malware.
+c) Hash-based rules: These rules leverage cryptographic hashes, unique representations of file contents, to identify malware.
 
-4. Network-centric rules: These rules scrutinize network traffic data, such as IP addresses, ports, or protocols, to identify malware-related activities. 
+d) Network-centric rules: These rules scrutinize network traffic data, such as IP addresses, ports, or protocols, to identify malware-related activities. 
 
 3. How are YARA rules similar to how Anti-Virus programs detect malicious software?
 
