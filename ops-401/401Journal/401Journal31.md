@@ -22,6 +22,6 @@
 
 - I would like to know more about analyzing malware and utilizing YARA.
 
-5. Is the assignment complete? If not, where exactly did you leave off, and what work remains? Do not get bogged down in written analysis; instead, focus on capturing the moment with an eye toward how your observations can guide you toward future productivity.
+5. Is the assignment complete? If not, where exactly did you leave off, and what work remains? 
 
 - I still need to do a little more work with microsoft threat modeling utilizing the additional information put out in the ZOOM video 31.
