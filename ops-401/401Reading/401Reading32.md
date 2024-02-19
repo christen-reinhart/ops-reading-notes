@@ -16,17 +16,17 @@
 
 3. What are the six steps of the Malware Analysis process? What’s a good mnemonic you can use to remember it?
 
-a)Identification: In this step, analysts identify and gather information about the suspicious file or behavior that may indicate the presence of malware.
+a) Identification: In this step, analysts identify and gather information about the suspicious file or behavior that may indicate the presence of malware.
 
-b)Static Analysis: Static analysis involves examining the malware without executing it. Analysts analyze the structure, code, and characteristics of the malware to understand its functionality, behavior, and potential impact.
+b) Static Analysis: Static analysis involves examining the malware without executing it. Analysts analyze the structure, code, and characteristics of the malware to understand its functionality, behavior, and potential impact.
 
-c)Dynamic Analysis: Dynamic analysis involves executing the malware in a controlled environment, such as a sandbox or virtual machine, to observe its behavior in real-time.
+c) Dynamic Analysis: Dynamic analysis involves executing the malware in a controlled environment, such as a sandbox or virtual machine, to observe its behavior in real-time.
 
-d)Behavioral Analysis: Behavioral analysis focuses on understanding how the malware interacts with its environment and affects system resources, processes, and files.
+d) Behavioral Analysis: Behavioral analysis focuses on understanding how the malware interacts with its environment and affects system resources, processes, and files.
 
-e)Code Analysis: Code analysis involves decompiling, disassembling, or reverse-engineering the malware's code to understand its internal workings, logic, and algorithms. 
+e) Code Analysis: Code analysis involves decompiling, disassembling, or reverse-engineering the malware's code to understand its internal workings, logic, and algorithms. 
 
-f)Reporting: The final step is to document the findings and analysis results in a comprehensive report.
+f) Reporting: The final step is to document the findings and analysis results in a comprehensive report.
 
 - A mnemonic that can be used to remember these six steps is "I SDB CR" 
 
