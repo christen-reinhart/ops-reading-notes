@@ -16,7 +16,7 @@
 
 3. What should I do differently next time?
 
-- Do a little more research over the weekend and ask more questions on the Friday before.
+- Do a little more research over the weekend and ask more questions on the Friday before since I did only have a limited understanding.
 
 4. What still puzzles me, or what do I need to learn more about?
 
