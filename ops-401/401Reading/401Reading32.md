@@ -32,7 +32,7 @@ f)Reporting: The final step is to document the findings and analysis results in 
 
 4. You are tasked with analyzing a new malware sample. Which type of malware analysis would you conduct first and why?
 
-- Trojan: Trojans since they disguise themselves as legitimate files or software to trick users into executing them. I like the trojan type of malware since it lays dormant and seems like an actual program. The person that put it in place could have been gone for a long time before someone else triggers the malware.
+- Trojans since they disguise themselves as legitimate files or software to trick users into executing them. I like the trojan type of malware since it lays dormant and seems like an actual program. The person that put it in place could have been gone for a long time before someone else triggers the malware.
 
 ## Reference
 
