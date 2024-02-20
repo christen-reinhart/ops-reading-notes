@@ -16,7 +16,7 @@
 
 1) I have a meeting with my mentor David Kallus February 27th @ 1100 to talk about job opportunities and what he looks for as a hiring manager(CISO). This will be via Microsoft Teams like always since he lives on the East coast of Florida.
 
-2) I have a meeting with my friend who is in Satellite Communications (SATCOM). He wants to talk about getting into cybersecurity and what I have done so far to assist him. This meeting is February 24th @ 1400. On Saturday I will go over to his house and help with Linkedin, VET-TEC, Resume, etc. This will be at my friend Rene's house since that is where he has computer access and access to his documentation.
+2) I have a meeting with my friend who is in Satellite Communications (SATCOM). He wants to talk about getting into cybersecurity and what I have done so far to assist him. This meeting is February 24th @ 1400. On Saturday I will go over to his house and help with Linkedin, VET-TEC, Resume, etc. 
 
 - Allocate 10 minutes to this assignment
 
