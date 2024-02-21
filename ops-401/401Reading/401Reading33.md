@@ -18,7 +18,9 @@
 
 - Threat hunting aims to detect security threats at an early stage, often before they escalate into full-blown breaches. Threat hunting focuses on uncovering hidden or dormant threats that may evade detection by traditional security measures. 
 
-- Your organization has a fully functioning SOC but not active Threat Hunting. How would you advocate for your security organization to start Threat Hunting activities?
+4. Your organization has a fully functioning SOC but not active Threat Hunting. How would you advocate for your security organization to start Threat Hunting activities?
+
+- Begin by educating senior leadership, including executives and decision-makers, about the concept and benefits of threat hunting. Emphasize the limitations of reactive security approaches, such as relying solely on alerts and incident response.  Align the proposal for threat hunting activities with the organization's broader goals and objectives.
 
 ## Bookmark and Review
 
