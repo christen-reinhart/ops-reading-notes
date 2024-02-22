@@ -23,7 +23,7 @@
 - Collection: In this stage, forensic investigators collect digital evidence from the identified devices and data sources.
 - Examination: The examination stage involves analyzing the collected digital evidence to uncover relevant information and insights.
 - Analysis: Analysis involves interpreting the findings of the examination to draw conclusions about the events that occurred and their significance to the investigation. 
--Reporting: Reporting is the final stage of the computer forensics examination process. It involves documenting the findings, methodologies, and conclusions of the investigation in a clear and concise report. 
+- Reporting: Reporting is the final stage of the computer forensics examination process. It involves documenting the findings, methodologies, and conclusions of the investigation in a clear and concise report. 
 
 ## References
 
