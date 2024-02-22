@@ -12,18 +12,26 @@
 
 2. What are the main differences between computer forensics and cybersecurity?
 
-- Computer forensics and cybersecurity are related fields within the broader realm of information security, but they have distinct focuses and objectives
-- The primary objective of computer forensics is to investigate and analyze digital evidence to uncover details related to a specific incident or crime.
-- The main objective of cybersecurity is to protect digital systems, networks, and data from unauthorized access, attacks, and other security threats.
+- Computer forensics and cybersecurity, though interconnected within the overarching domain of information security, delineate distinct areas of concentration and goals.
+
+- The principal aim of computer forensics resides in the scrutiny and analysis of digital evidence with the aim of elucidating details pertinent to a particular incident or criminal activity.
+
+- In contrast, cybersecurity primarily concerns itself with the safeguarding of digital infrastructures, networks, and data from unauthorized access, malicious attacks, and assorted security breaches.
 
 3. What are the six stages of a computer forensics examination?
 
-- Identification: This stage involves identifying and defining the scope of the investigation.
-- Preservation: Preservation is crucial for maintaining the integrity and admissibility of digital evidence. 
-- Collection: In this stage, forensic investigators collect digital evidence from the identified devices and data sources.
-- Examination: The examination stage involves analyzing the collected digital evidence to uncover relevant information and insights.
-- Analysis: Analysis involves interpreting the findings of the examination to draw conclusions about the events that occurred and their significance to the investigation. 
-- Reporting: Reporting is the final stage of the computer forensics examination process. It involves documenting the findings, methodologies, and conclusions of the investigation in a clear and concise report. 
+- Identification: This phase entails delineating and determining the extent of the investigative scope, outlining the parameters within which digital evidence will be sought and analyzed.
+
+- Preservation: Preservation constitutes a critical phase aimed at safeguarding the integrity and admissibility of digital evidence through meticulous handling and storage procedures, ensuring its authenticity and reliability remain intact.
+
+- Collection: During this stage, forensic investigators systematically gather digital evidence from identified devices and data repositories using specialized tools and methodologies, adhering to legal and procedural guidelines.
+
+- Examination: The examination phase encompasses a comprehensive analysis of the gathered digital evidence, employing forensic techniques and software to scrutinize data structures, metadata, and file contents, with the goal of extracting pertinent information and insights.
+
+- Analysis: Analysis involves the systematic interpretation and synthesis of examination findings to discern patterns, relationships, and anomalies, thereby deriving meaningful conclusions regarding the nature and significance of the investigated events.
+
+- Reporting: Reporting represents the culmination of the computer forensics process, wherein investigators document their findings, methodologies, and conclusions in a comprehensive and coherent manner, presenting a clear narrative of the investigation's outcomes for legal or administrative purposes.
+
 
 ## References
 
