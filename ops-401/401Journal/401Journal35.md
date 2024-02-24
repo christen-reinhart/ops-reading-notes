@@ -1,16 +1,18 @@
 ## Learning Journal: Class 35
 
 - Retrospectives are a critical part of Agile, and typically take the form of meetings held by a team at the end of a sprint cycle. To get us acclimated to that process, we will use the format of a retrospectives to guide today’s reflection.
+
 - This article gives a nice overview to the role of retrospectives.
+
 - Take 10-15 minutes at the end of lab to respond to the following questions, adapted from the article:
 
 1) What went well, that I might forget if I don’t write down?
 
--Successful execution of Nmap scans and interpretation of scan results.
+- Successful execution of Nmap scans and interpretation of scan results.
 
--Understanding how to write and execute Lua scripts for Nmap.
+- Understanding how to write and execute Lua scripts for Nmap.
 
--Exploring the benefits of adopting scripting and extensible defenses in cybersecurity operations.
+- Exploring the benefits of adopting scripting and extensible defenses in cybersecurity operations.
 
 2) What did I learn today?
 
