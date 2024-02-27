@@ -63,11 +63,11 @@ e) Reporting and Post-Engagement:
 
 4) What situations are they best suited for?
 
-1) Traditional Spider:
+a) Traditional Spider:
 
 - Well-structured web applications with primarily static content: The Traditional Spider is ideal for systematically crawling through such applications, following links, and discovering all accessible pages and functionality.
 
-2) Ajax Spider:
+b) Ajax Spider:
 
 - Web applications with heavy use of JavaScript and AJAX: The Ajax Spider is specifically designed to handle dynamic web applications where content is loaded asynchronously using JavaScript.
 
