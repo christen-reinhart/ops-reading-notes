@@ -10,7 +10,7 @@
 
 1) What are the common stages of the Penetration Testing process and what tasks are performed at each one?
 
-1) Pre-Engagement:
+a) Pre-Engagement:
 - Tasks:
 
 - Define the scope and goals of the test with the client.
@@ -18,21 +18,21 @@
 - Identify stakeholders and obtain necessary approvals.
 - Develop a detailed test plan outlining methodology, tools, and reporting format.
 
-2) Information Gathering (Reconnaissance):
+b) Information Gathering (Reconnaissance):
 - Tasks:
 
 - Gather publicly available information about the target, including network diagrams, employee information, and software versions.
 - Identify potential attack vectors and vulnerabilities.
 - Map the network infrastructure to understand its layout and connectivity.
 
-3) Scanning and Enumeration:
+c) Scanning and Enumeration:
 - Tasks:
 
 - Use automated tools to scan the target network for vulnerabilities in systems, applications, and configurations.
 - Identify specific weaknesses and gather detailed information about them (enumeration).
 - Analyze the results to prioritize potential attack vectors.
 
-4) Exploitation and Post-Exploitation:
+d) Exploitation and Post-Exploitation:
 - Tasks:
 
 - Attempt to exploit identified vulnerabilities using manual or automated tools.
@@ -40,7 +40,7 @@
 - Maintain access and escalate privileges if possible.
 - Document the exploit process and potential impact on the target.
 
-5) Reporting and Post-Engagement:
+e) Reporting and Post-Engagement:
 - Tasks:
 
 - Document the findings in a comprehensive report, including identified vulnerabilities, exploited weaknesses, and potential impact.
