@@ -10,7 +10,7 @@
 
 2. What did I learn today?
 
-- We went over OWASP and the top ten attacks. Then went over ZEN and utilizing it to test websites.
+- We went over OWASP and the top ten attacks. Then went over ZAP and utilizing it to test websites.
 
 3. What should I do differently next time?
 
