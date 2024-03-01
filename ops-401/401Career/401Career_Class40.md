@@ -19,3 +19,4 @@
 ## Feedback
 
 - Most of the feedback I received was very constructive. I need to speak up and show more energy which has been a common theme in the feedback I have received. I need to add some footnotes so I stay on topic since I did go off a bit.
+
