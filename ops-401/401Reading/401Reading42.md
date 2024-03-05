@@ -51,6 +51,8 @@ b. Credential Guard: As mentioned earlier, Credential Guard protects credentials
 
 [What is Mimikatz?](https://www.varonis.com/blog/what-is-mimikatz/) 
 
+[Chat GPT](https://chat.openai.com/share/9330b508-2e6f-421b-b1b4-d21cd9c0be3e) 
+
 ## Things I want to know more about
 
 - Restricted Admin mode and Credential guard
