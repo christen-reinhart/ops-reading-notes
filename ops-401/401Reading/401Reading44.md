@@ -26,4 +26,4 @@
 
 ## Things I want to know more about
 
--How to put together profiles and reports using OSINT tools.
+- How to put together profiles and reports using OSINT tools.
