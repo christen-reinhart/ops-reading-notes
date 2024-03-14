@@ -11,7 +11,7 @@
 - Worked on the Lambda function triggered by an event but still no resolution.
 - Monitored network activity for any signs of compromise or attacks then logged incident report.
 
-2.What specific contributions did you make? Please share links to your work from today (documentation or PRs/commits).
+2. What specific contributions did you make? Please share links to your work from today (documentation or PRs/commits).
 
 - Created multiple network diagrams and topologies.
 - Went through all the logged events in GuardDuty since Splunk was having issues.
