@@ -28,7 +28,7 @@ After that Splunk got overwhelmed due to the volume of logs it was ingesting. We
 
 4. Were there any problems that proved insoluble?
 
-- The Splunk issues were on and off throughout the week. Before the presentation we just stopped logging into it and stopped the Snort input to limit the load of logs. Then logged into it right before the presentation. It wasn’t due to any issues on our end, mostly it was due to license limits and the log storage/ archive building up over the week.
+- Throughout the week, we encountered intermittent issues with Splunk, leading to a strategic decision before the presentation to halt logging and discontinue the Snort input. This measure aimed to reduce the volume of logs and alleviate the system's load. We resumed access to Splunk just prior to our presentation. The challenges we faced were not due to shortcomings in our management or operational errors; rather, they stemmed from restrictions related to license limits and the accumulation of log storage and archives over the week. This approach helped us navigate the limitations and ensure the system's optimal performance for the presentation.
 
 5. Are there any team members you would call out for particular kudos?
 
