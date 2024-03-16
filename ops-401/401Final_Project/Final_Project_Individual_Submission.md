@@ -12,7 +12,7 @@
 
 1. What went well and what did not?
 
-- We got off to a good start with all the administrative documentation and worked over the weekend to get our environment set up and properly monitoring it.
+- We got off to a good start with all the administrative documentation and worked over the weekend to get our environment set up and properly monitoring it by Monday.
 
 - We had some issues with the Lambda function but eventually got it working properly.
 After that Splunk got overwhelmed due to the volume of logs it was ingesting. We fell back onto GuardDuty for monitoring but it was a bit limited compared to Splunk. Eventually Splunk did start working properly for our presentation but we were limited in our ability to use the data in our report.
