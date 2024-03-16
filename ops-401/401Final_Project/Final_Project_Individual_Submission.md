@@ -22,7 +22,7 @@
 
 #### 3. Briefly describe your group dynamic for the week.
 
-- Our team collaboration was notably effective, with a shared determination to persevere through the week and reach graduation. The atmosphere was one of mutual support rather than competition; no one was intent on causing disruptions or outperforming others. This harmonious dynamic contributed significantly to our overall productivity and morale. Additionally, our collaboration extended beyond our immediate team, as we engaged with another team facing similar challenges with Splunk. This spirit of cooperation and mutual assistance not only helped address technical issues but also reinforced the sense of community and shared goals among us.
+- Our team collaboration was notably effective, with a shared determination to persevere through the week and reach graduation. The atmosphere was one of mutual support rather than competition; no one was intent on causing disruptions or outperforming others. This dynamic of camaraderie contributed significantly to our overall productivity and morale. Additionally, our collaboration extended beyond our immediate team as we engaged with our counterpart, or sister blue team—Blue Team 2—with whom we've worked closely on various projects throughout our cybersecurity course. This spirit of cooperation and mutual assistance not only helped address technical issues with Splunk but also reinforced the sense of community and shared goals among us, solidifying our bond as comrades in learning and challenge-solving.
 
 #### 4. Were there any problems that proved insoluble?
 
