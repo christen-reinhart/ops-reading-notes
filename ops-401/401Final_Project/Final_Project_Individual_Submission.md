@@ -65,7 +65,7 @@ After that Splunk got overwhelmed due to the volume of logs it was ingesting. We
 [Final Presentation](https://docs.google.com/presentation/d/1PXNTB5LqcRvMcqeVXooJWBJadhNDQmEGra5ewaPtrbU/edit?usp=sharing) 
 
 
-[Cyber Threat Timeline}](https://docs.google.com/document/d/1npEi5vH7y1iTvWDnF6qcZFNsLUA-KBFbQxoy5bvC0VY/edit?usp=sharing)
+[Cyber Threat Timeline](https://docs.google.com/document/d/1npEi5vH7y1iTvWDnF6qcZFNsLUA-KBFbQxoy5bvC0VY/edit?usp=sharing)
 
 
 [Incident Report Malicious File](https://docs.google.com/document/d/1M2f_G8YKSRFs1IHtD1-0CxAFnzadKjlmCWD96TvH0UQ/edit?usp=sharing)
