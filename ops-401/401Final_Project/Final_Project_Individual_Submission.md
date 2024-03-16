@@ -40,7 +40,7 @@ After that Splunk got overwhelmed due to the volume of logs it was ingesting. We
 
 7. Describe at least one surprising success or failure you experienced during the week.
 
-- Failing then passing the 10 question exit test for the final assessment. I guess the contrast just pissed me off since I thought the test would be easy and the interview would be hard. It ended up being kind of inverted which threw me off guard mentally and got me thinking too much in my own head how I should have done things differently.
+- Initially failing but ultimately passing the 10-question exit test for the final assessment left me feeling frustrated, especially since I had anticipated the test to be straightforward and the interview to be challenging. The reality, however, was quite the opposite, catching me completely off guard. This unexpected reversal of expectations significantly affected my mental state, leading me to overthink my approach and second-guess my preparation strategies. The stark contrast between what I had anticipated and what actually transpired caused a great deal of irritation. It prompted me to reflect deeply on the ways I could have approached the situation differently, highlighting the importance of adaptability in the face of unforeseen challenges.
 
 8. Describe changes you would make to your personal or team process that you can incorporate into your next team effort.
 
