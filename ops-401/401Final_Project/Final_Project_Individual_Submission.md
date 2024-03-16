@@ -12,7 +12,7 @@
 
 1. What went well and what did not?
 
-- Our project kicked off on a strong note, focusing initially on completing all necessary administrative documentation. We dedicated the weekend to establishing and configuring our working environment, ensuring that by Monday, we had a system in place for effective monitoring. This proactive approach laid a solid foundation for the work ahead, allowing us to start the week ready to tackle the project's technical demands.
+- We encountered challenges with the Lambda function initially but managed to resolve these issues and get it functioning correctly. Following this, our use of Splunk hit a snag due to the platform becoming overwhelmed by the sheer volume of logs it was processing. This forced us to switch to GuardDuty for our monitoring needs, which, while effective, offered less comprehensive capabilities compared to Splunk. Fortunately, we were able to get Splunk up and running properly in time for our presentation. However, the earlier difficulties with Splunk limited our ability to fully utilize the data within our report, affecting the depth and breadth of our analysis.
 
 - We had some issues with the Lambda function but eventually got it working properly.
 After that Splunk got overwhelmed due to the volume of logs it was ingesting. We fell back onto GuardDuty for monitoring but it was a bit limited compared to Splunk. Eventually Splunk did start working properly for our presentation but we were limited in our ability to use the data in our report.
