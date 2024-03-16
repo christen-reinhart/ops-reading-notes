@@ -17,7 +17,6 @@
 - We had some issues with the Lambda function but eventually got it working properly.
 After that Splunk got overwhelmed due to the volume of logs it was ingesting. We fell back onto GuardDuty for monitoring but it was a bit limited compared to Splunk. Eventually Splunk did start working properly for our presentation but we were limited in our ability to use the data in our report.
 
-
 2. How would you compare the outcome with your vision for the project?
 
 - My initial vision for the project was centered around achieving seamless data integration and analysis through Splunk, aiming for thorough monitoring and reporting capabilities. However, the journey unveiled a series of challenges, turning into a valuable lesson on navigating the complexities of handling large datasets and the necessity of having backup plans when primary tools falter. We encountered specific difficulties with Snort, particularly in routing data from various endpoints to the threat hunter and subsequently into Splunk. The situation escalated to the point where we had to temporarily disconnect the Snort input to manage the overwhelming volume of log ingestion. Despite these obstacles, our team's resilience and commitment to open communication, primarily through regular updates and status reports shared on Slack, enabled us to surmount the difficulties and maintain progress towards our objectives.
