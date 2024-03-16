@@ -76,6 +76,7 @@ After that Splunk got overwhelmed due to the volume of logs it was ingesting. We
 
 [Comprehensive Cybersecurity Threat Report](https://docs.google.com/document/d/1TqUUDoLmZ8KFwpQ0UjEeiSPiuYNf09Tc9ve_bI6oAb8/edit?usp=sharing)
 
+[Malicious_File_Incident](https://docs.google.com/document/d/1M2f_G8YKSRFs1IHtD1-0CxAFnzadKjlmCWD96TvH0UQ/edit?usp=sharing)
 
 [Brute Force Incident](https://docs.google.com/document/d/1LeTc7iSxaEZqhNaVnPTrTGRJjPvqQ_rHSA6cQ-Y3jmA/edit?usp=sharing)
 
