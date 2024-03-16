@@ -48,7 +48,7 @@ After that Splunk got overwhelmed due to the volume of logs it was ingesting. We
 
 9. If there is anything else you wish us to know when assessing your contribution to the group project, please include it. Only members of the Instructional team will read these submissions, so you may be candid.
 
-- No, all my work is in the links below for the most part and included in my daily retro reports. I was in Slack and at the table all week and over the weekend making sure that I put forth an honest effort and was available.
+- Most of my contributions and work can be found through the links provided below, which have been consistently included in my daily retrospective reports. Throughout the week and over the weekend, I ensured my presence both in Slack and at our discussion table, demonstrating my commitment to the project. My aim was to make a sincere effort and remain accessible to the team, ensuring that my participation was both active and productive. This consistent engagement reflects my dedication to our collective goals and my willingness to contribute effectively to our success.
 
 ## Assignment Submission
 
