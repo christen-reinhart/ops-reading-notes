@@ -44,7 +44,7 @@ After that Splunk got overwhelmed due to the volume of logs it was ingesting. We
 
 8. Describe changes you would make to your personal or team process that you can incorporate into your next team effort.
 
-- Make things more structured to hold people more accountable. By that I mean have someone in charge no matter who it was and assign people tasks. Also don’t let people wander off and by that I mean everyone sits at the table and talks to hash things out even if it's virtually. No messaging and your Avatar is at the table but you are not actually present at the moment.
+- To enhance accountability and structure within the team, it's crucial to establish clear leadership and task assignments. This involves appointing a designated leader, regardless of their position, to oversee the process and ensure that responsibilities are distributed effectively. Additionally, maintaining focus is essential; this means requiring team members to be actively engaged in discussions, whether they're happening in person or virtually. To prevent distractions and ensure full participation, members should be present at the table, or in the case of virtual meetings, actively involved without resorting to messaging or being absent while their avatar appears active. This approach emphasizes the importance of direct communication and collaboration, ensuring that everyone is fully involved in the conversation and contributing to the solution.
 
 9. If there is anything else you wish us to know when assessing your contribution to the group project, please include it. Only members of the Instructional team will read these submissions, so you may be candid.
 
