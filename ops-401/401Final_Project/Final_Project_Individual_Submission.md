@@ -24,7 +24,7 @@ After that Splunk got overwhelmed due to the volume of logs it was ingesting. We
 
 3. Briefly describe your group dynamic for the week.
 
-- I would say we worked well together, I think everyone was just ready to push through this week to get to the other side and graduate. No one was looking to make any waves or try to out shine anyone else. The dynamic of the team was a good one and we still had the other team come by to work with them as well since we both had Splunk issues at one time or another.
+- Our team collaboration was notably effective, with a shared determination to persevere through the week and reach graduation. The atmosphere was one of mutual support rather than competition; no one was intent on causing disruptions or outperforming others. This harmonious dynamic contributed significantly to our overall productivity and morale. Additionally, our collaboration extended beyond our immediate team, as we engaged with another team facing similar challenges with Splunk. This spirit of cooperation and mutual assistance not only helped address technical issues but also reinforced the sense of community and shared goals among us.
 
 4. Were there any problems that proved insoluble?
 
