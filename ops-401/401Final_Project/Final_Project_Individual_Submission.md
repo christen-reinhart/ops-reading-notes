@@ -12,10 +12,7 @@
 
 1. What went well and what did not?
 
-- We encountered challenges with the Lambda function initially but managed to resolve these issues and get it functioning correctly. Following this, our use of Splunk hit a snag due to the platform becoming overwhelmed by the sheer volume of logs it was processing. This forced us to switch to GuardDuty for our monitoring needs, which, while effective, offered less comprehensive capabilities compared to Splunk. Fortunately, we were able to get Splunk up and running properly in time for our presentation. However, the earlier difficulties with Splunk limited our ability to fully utilize the data within our report, affecting the depth and breadth of our analysis.
-
-- We had some issues with the Lambda function but eventually got it working properly.
-After that Splunk got overwhelmed due to the volume of logs it was ingesting. We fell back onto GuardDuty for monitoring but it was a bit limited compared to Splunk. Eventually Splunk did start working properly for our presentation but we were limited in our ability to use the data in our report.
+- Initially, we faced hurdles with the Lambda function but overcame these challenges to ensure its proper operation. Subsequently, our deployment of Splunk encountered difficulties as it became inundated with an excessive volume of logs, leading to its temporary inefficiency. To maintain our monitoring activities, we transitioned to using GuardDuty. Though GuardDuty served as a reliable alternative, it didn't match Splunk's comprehensive analytics capabilities. Nonetheless, we managed to rectify the issues with Splunk and had it fully operational for our presentation. Despite this success, the prior complications with Splunk restricted our ability to harness the data comprehensively in our report, impacting the overall depth and detail of our analysis.
 
 2. How would you compare the outcome with your vision for the project?
 
