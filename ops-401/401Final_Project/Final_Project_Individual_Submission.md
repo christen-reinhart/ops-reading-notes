@@ -8,7 +8,7 @@
 
 - Below, use the text submission box for this assignment to write on each of the following topics.
 
-- Describe your overall satisfaction level with your project results.
+## Describe your overall satisfaction level with your project results.
 
 - Reflecting on the outcomes of the project, my satisfaction level is moderately high, tempered by the challenges we faced along the way. The successful resolution of technical hurdles, such as the Lambda function and the Splunk logging issue, underscores the team's resilience and adaptability. While the transition to GuardDuty was a necessary pivot, it also highlighted our ability to remain flexible under pressure and find effective solutions amid constraints. The eventual smooth operation of Splunk for our presentation was a significant achievement, although the earlier limitations somewhat constrained our use of data in the final report. Despite these obstacles, the project was a valuable learning experience, offering insights into both the technical aspects of our work and the importance of teamwork and communication. Overall, the sense of accomplishment in overcoming these challenges and delivering a functional solution contributes to a feeling of satisfaction with what we managed to achieve together.
 
