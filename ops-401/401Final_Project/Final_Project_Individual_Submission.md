@@ -32,7 +32,7 @@ After that Splunk got overwhelmed due to the volume of logs it was ingesting. We
 
 5. Are there any team members you would call out for particular kudos?
 
-- Michael helped a lot over the weekend and took on Splunk very well since his last project they went with Splunk for monitoring. Thierry did well getting the Lambda function working. Since that has been an area where people tend to have issues in the past. I enjoyed working with all of them and it was nice to have some of my old team members come by from previous projects.
+- Over the weekend, Michael provided substantial assistance and demonstrated a strong grasp of Splunk, leveraging his experience from a previous project where Splunk was chosen for monitoring. Thierry also made significant contributions by successfully implementing a Lambda function, an area that has historically presented challenges for many. Working alongside them was a rewarding experience for me, and it was particularly gratifying to reunite with former team members who stopped by from past projects. Their involvement and the collaboration amongst us underscored the value of teamwork and diverse expertise in overcoming project hurdles.
 
 6. Describe at least one difficulty you faced during project week and how you dealt with it. This difficulty could be technical in nature, or interpersonal.
 
