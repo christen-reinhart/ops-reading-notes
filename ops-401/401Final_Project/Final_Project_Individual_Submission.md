@@ -66,8 +66,6 @@
 
 [Cyber Threat Timeline](https://docs.google.com/document/d/1npEi5vH7y1iTvWDnF6qcZFNsLUA-KBFbQxoy5bvC0VY/edit?usp=sharing)
 
-[Incident Report Malicious File](https://docs.google.com/document/d/1M2f_G8YKSRFs1IHtD1-0CxAFnzadKjlmCWD96TvH0UQ/edit?usp=sharing)
-
 [STRIDE Report](https://docs.google.com/document/d/1UQukIQ9ScEVJvBkVB4NXG6SSKMVP9JRtrEL9gu85zhM/edit?usp=sharing)
 
 [Comprehensive Cybersecurity Threat Report](https://docs.google.com/document/d/1TqUUDoLmZ8KFwpQ0UjEeiSPiuYNf09Tc9ve_bI6oAb8/edit?usp=sharing)
