@@ -6,9 +6,11 @@
 
 ## Reading
 
-- What is Data Loss Prevention (DLP)?
+1. What is Data Loss Prevention (DLP)?
 
-1. How would you convince your organization about the importance of implementing a DLP solution?
+- Data Loss Prevention (DLP) is a set of tools and processes designed to ensure that sensitive or critical information does not leave the corporate network unauthorized. It works by identifying, monitoring, and protecting data in use, in motion, and at rest through deep content inspection and contextual security analysis of transactions. DLP policies help organizations comply with legal and regulatory requirements by preventing the accidental or intentional disclosure of sensitive information. By applying rules to classify and protect confidential and critical information, DLP can prevent unauthorized access and sharing. Overall, DLP solutions provide visibility into data usage, movement, and access, helping organizations mitigate the risk of data breaches and safeguard their valuable information assets.
+
+2. How would you convince your organization about the importance of implementing a DLP solution?
 
 a) Highlight the Risks and Costs of Data Breaches
 
@@ -29,7 +31,7 @@ c) Illustrate the Benefits of DLP
 - Visibility and Control Over Data: Explain how DLP provides visibility into where sensitive data resides, how it's used, and how it moves within and outside the organization. This visibility is crucial for managing and protecting valuable information assets.
 
 
-2. How would you explain the three main use cases for DLP to friends or family?
+3. How would you explain the three main use cases for DLP to friends or family?
 
 - Imagine you have a folder of important personal documents at home, like your passport, tax returns, and bank statements. You wouldn't want these documents to accidentally end up outside your house, where anyone could see them. DLP works similarly for digital information. It helps organizations keep their sensitive data—such as customer information, financial records, and intellectual property—safe and secure, ensuring that this data doesn't get sent out or accessed by unauthorized people.
 
